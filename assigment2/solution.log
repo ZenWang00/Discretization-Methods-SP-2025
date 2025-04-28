@@ -1,0 +1,2165 @@
+2025-04-26 21:56:34,377 - INFO - Starting main program execution
+2025-04-26 21:56:34,377 - INFO - Starting Fourier differentiation test
+2025-04-26 22:10:31,213 - INFO - Starting main program execution
+2025-04-26 22:10:31,213 - INFO - Starting Fourier differentiation test
+2025-04-26 22:10:35,810 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-26 22:10:40,401 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-26 22:10:44,924 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-26 22:10:49,438 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-26 22:10:54,011 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-26 22:10:58,641 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-26 22:10:58,641 - INFO - Starting Fourier differentiation accuracy test with method=odd
+2025-04-26 22:10:58,665 - INFO - k=2, N=20, error=1.08e-06
+2025-04-26 22:10:58,709 - INFO - k=4, N=28, error=1.83e-06
+2025-04-26 22:10:58,765 - INFO - k=6, N=36, error=1.10e-06
+2025-04-26 22:10:58,839 - INFO - k=8, N=44, error=4.75e-07
+2025-04-26 22:10:58,919 - INFO - k=10, N=48, error=4.92e-06
+2025-04-26 22:10:59,015 - INFO - k=12, N=56, error=1.57e-06
+2025-04-26 22:10:59,016 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 22:11:03,678 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-26 22:11:08,424 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-26 22:11:13,064 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-26 22:11:17,662 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-26 22:11:22,166 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-26 22:11:26,696 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-26 22:11:26,697 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 22:11:27,317 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 22:11:27,318 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x/2)
+2025-04-26 22:11:45,912 - INFO - Starting main program execution
+2025-04-26 22:11:45,912 - INFO - Starting Fourier differentiation test
+2025-04-26 22:11:50,387 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-26 22:11:54,954 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-26 22:11:59,859 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-26 22:12:04,898 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-26 22:12:09,553 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-26 22:12:14,367 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-26 22:12:14,368 - INFO - Starting Fourier differentiation accuracy test with method=odd
+2025-04-26 22:12:14,384 - INFO - k=2, N=16, error=9.65e-05
+2025-04-26 22:12:14,420 - INFO - k=4, N=24, error=8.56e-05
+2025-04-26 22:12:14,520 - INFO - k=6, N=30, error=8.21e-04
+2025-04-26 22:12:14,575 - INFO - k=8, N=36, error=3.71e-04
+2025-04-26 22:12:14,647 - INFO - k=10, N=44, error=1.17e-04
+2025-04-26 22:12:14,729 - INFO - k=12, N=48, error=7.15e-04
+2025-04-26 22:12:14,729 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 22:12:19,552 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-26 22:12:24,329 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-26 22:12:28,979 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-26 22:12:33,637 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-26 22:12:38,245 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-26 22:12:42,799 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-26 22:12:42,799 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 22:12:43,027 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 22:12:43,027 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x/2)
+2025-04-26 22:12:54,373 - INFO - Starting main program execution
+2025-04-26 22:12:54,373 - INFO - Starting Fourier differentiation test
+2025-04-26 22:12:58,831 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-26 22:13:03,526 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-26 22:13:08,148 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-26 22:13:12,855 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-26 22:13:17,538 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-26 22:13:22,158 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-26 22:13:22,158 - INFO - Starting Fourier differentiation accuracy test with method=odd
+2025-04-26 22:13:22,174 - INFO - k=2, N=16, error=9.65e-05
+2025-04-26 22:13:22,204 - INFO - k=4, N=24, error=8.56e-05
+2025-04-26 22:13:22,250 - INFO - k=6, N=30, error=8.21e-04
+2025-04-26 22:13:22,308 - INFO - k=8, N=36, error=3.71e-04
+2025-04-26 22:13:22,379 - INFO - k=10, N=44, error=1.17e-04
+2025-04-26 22:13:22,459 - INFO - k=12, N=48, error=7.15e-04
+2025-04-26 22:13:22,459 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 22:13:27,066 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-26 22:13:32,117 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-26 22:13:36,692 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-26 22:13:41,234 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-26 22:13:45,856 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-26 22:13:50,508 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-26 22:13:50,509 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 22:13:50,735 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 22:13:50,735 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x/2)
+2025-04-26 22:14:17,537 - INFO - Starting main program execution
+2025-04-26 22:14:17,537 - INFO - Starting Fourier differentiation test
+2025-04-26 22:14:22,039 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-26 22:14:26,618 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-26 22:14:31,316 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-26 22:14:35,987 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-26 22:14:40,776 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-26 22:14:45,503 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-26 22:14:45,503 - INFO - Starting Fourier differentiation accuracy test with method=odd
+2025-04-26 22:14:45,518 - INFO - k=2, N=16, error=9.65e-05
+2025-04-26 22:14:45,550 - INFO - k=4, N=24, error=8.56e-05
+2025-04-26 22:14:45,593 - INFO - k=6, N=30, error=8.21e-04
+2025-04-26 22:14:45,650 - INFO - k=8, N=36, error=3.71e-04
+2025-04-26 22:14:45,721 - INFO - k=10, N=44, error=1.17e-04
+2025-04-26 22:14:45,798 - INFO - k=12, N=48, error=7.15e-04
+2025-04-26 22:14:45,798 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 22:14:50,469 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-26 22:14:55,241 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-26 22:15:00,006 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-26 22:15:04,750 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-26 22:15:09,479 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-26 22:15:14,254 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-26 22:15:14,255 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 22:15:14,488 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 22:15:14,489 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x/2)
+2025-04-26 22:15:14,583 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x/2)
+2025-04-26 22:15:14,584 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-26 22:15:14,683 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-26 22:15:14,683 - INFO - Computing PDE errors for method=second
+2025-04-26 22:15:14,683 - INFO - Solving hyperbolic PDE with N=8, method=second
+2025-04-26 22:17:07,681 - INFO - Completed PDE solution for N=8, method=second
+2025-04-26 22:17:07,681 - INFO - N=8, error=1.83e+00
+2025-04-26 22:17:07,685 - INFO - Solving hyperbolic PDE with N=16, method=second
+2025-04-26 22:19:01,073 - INFO - Completed PDE solution for N=16, method=second
+2025-04-26 22:19:01,074 - INFO - N=16, error=1.21e+00
+2025-04-26 22:19:01,078 - INFO - Solving hyperbolic PDE with N=32, method=second
+2025-04-26 22:20:54,855 - INFO - Completed PDE solution for N=32, method=second
+2025-04-26 22:20:54,856 - INFO - N=32, error=4.72e-01
+2025-04-26 22:20:54,860 - INFO - Solving hyperbolic PDE with N=64, method=second
+2025-04-26 22:22:48,716 - INFO - Completed PDE solution for N=64, method=second
+2025-04-26 22:22:48,718 - INFO - N=64, error=1.32e-01
+2025-04-26 22:22:48,722 - INFO - Solving hyperbolic PDE with N=128, method=second
+2025-04-26 22:24:41,046 - INFO - Completed PDE solution for N=128, method=second
+2025-04-26 22:24:41,046 - INFO - N=128, error=3.32e-02
+2025-04-26 22:24:41,050 - INFO - Solving hyperbolic PDE with N=256, method=second
+2025-04-26 22:26:34,923 - INFO - Completed PDE solution for N=256, method=second
+2025-04-26 22:26:34,923 - INFO - N=256, error=2.02e-02
+2025-04-26 22:26:34,927 - INFO - Solving hyperbolic PDE with N=512, method=second
+2025-04-26 22:28:29,371 - INFO - Completed PDE solution for N=512, method=second
+2025-04-26 22:28:29,372 - INFO - N=512, error=1.19e-02
+2025-04-26 22:28:29,375 - INFO - Solving hyperbolic PDE with N=1024, method=second
+2025-04-26 22:30:23,743 - INFO - Completed PDE solution for N=1024, method=second
+2025-04-26 22:30:23,744 - INFO - N=1024, error=6.67e-03
+2025-04-26 22:30:23,747 - INFO - Solving hyperbolic PDE with N=2048, method=second
+2025-04-26 22:32:19,537 - INFO - Completed PDE solution for N=2048, method=second
+2025-04-26 22:32:19,538 - INFO - N=2048, error=3.75e-03
+2025-04-26 22:32:19,616 - INFO - Computing PDE errors for method=fourth
+2025-04-26 22:32:19,616 - INFO - Solving hyperbolic PDE with N=8, method=fourth
+2025-04-26 22:34:15,349 - INFO - Completed PDE solution for N=8, method=fourth
+2025-04-26 22:34:15,351 - INFO - N=8, error=1.98e+00
+2025-04-26 22:34:15,356 - INFO - Solving hyperbolic PDE with N=16, method=fourth
+2025-04-26 22:36:12,049 - INFO - Completed PDE solution for N=16, method=fourth
+2025-04-26 22:36:12,050 - INFO - N=16, error=2.21e+00
+2025-04-26 22:36:12,053 - INFO - Solving hyperbolic PDE with N=32, method=fourth
+2025-04-26 22:37:11,775 - INFO - Starting main program execution
+2025-04-26 22:37:11,776 - INFO - Starting Fourier differentiation test
+2025-04-26 22:37:16,511 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-26 22:37:21,238 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-26 22:37:26,110 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-26 22:37:30,942 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-26 22:37:35,711 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-26 22:37:40,493 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-26 22:37:40,493 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 22:37:45,351 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-26 22:37:50,247 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-26 22:37:54,999 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-26 22:37:59,808 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-26 22:38:04,647 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-26 22:38:09,817 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-26 22:38:09,818 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 22:38:10,053 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 22:38:10,053 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x/2)
+2025-04-26 22:38:10,156 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x/2)
+2025-04-26 22:38:10,156 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-26 22:38:10,257 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-26 22:38:10,257 - INFO - Plotting PDE solutions for N=10
+2025-04-26 22:38:10,263 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 22:38:10,265 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 22:38:10,389 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 22:38:10,657 - INFO - Completed plotting for N=10
+2025-04-26 22:38:10,657 - INFO - Main program execution completed
+2025-04-26 22:39:40,146 - INFO - Starting main program execution
+2025-04-26 22:39:40,146 - INFO - Starting Fourier differentiation test
+2025-04-26 22:39:40,154 - ERROR - Error at k=2, N=4: Integers to negative integer powers are not allowed.
+2025-04-26 22:39:40,154 - INFO - k=2, minimum N=4
+2025-04-26 22:39:40,154 - ERROR - Error at k=4, N=4: Integers to negative integer powers are not allowed.
+2025-04-26 22:39:40,154 - INFO - k=4, minimum N=4
+2025-04-26 22:39:40,154 - ERROR - Error at k=6, N=4: Integers to negative integer powers are not allowed.
+2025-04-26 22:39:40,154 - INFO - k=6, minimum N=4
+2025-04-26 22:39:40,154 - ERROR - Error at k=8, N=4: Integers to negative integer powers are not allowed.
+2025-04-26 22:39:40,154 - INFO - k=8, minimum N=4
+2025-04-26 22:39:40,155 - ERROR - Error at k=10, N=4: Integers to negative integer powers are not allowed.
+2025-04-26 22:39:40,155 - INFO - k=10, minimum N=4
+2025-04-26 22:39:40,155 - ERROR - Error at k=12, N=4: Integers to negative integer powers are not allowed.
+2025-04-26 22:39:40,155 - INFO - k=12, minimum N=4
+2025-04-26 22:39:40,155 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 22:39:40,155 - ERROR - Error at k=2, N=10: Integers to negative integer powers are not allowed.
+2025-04-26 22:39:49,790 - INFO - Starting main program execution
+2025-04-26 22:39:49,790 - INFO - Starting Fourier differentiation test
+2025-04-26 22:39:54,029 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-26 22:39:58,339 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-26 22:40:02,690 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-26 22:40:07,004 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-26 22:40:11,425 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-26 22:40:15,844 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-26 22:40:15,844 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 22:40:20,195 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-26 22:40:24,647 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-26 22:40:29,312 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-26 22:40:33,784 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-26 22:40:38,455 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-26 22:40:43,006 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-26 22:40:43,006 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 22:40:43,241 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 22:40:43,241 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x/2)
+2025-04-26 22:40:43,340 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x/2)
+2025-04-26 22:40:43,340 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-26 22:40:43,442 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-26 22:40:43,442 - INFO - Plotting PDE solutions for N=10
+2025-04-26 22:40:43,448 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 22:40:43,451 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 22:40:43,574 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 22:40:43,852 - INFO - Completed plotting for N=10
+2025-04-26 22:40:43,852 - INFO - Main program execution completed
+2025-04-26 22:41:03,695 - INFO - Starting main program execution
+2025-04-26 22:41:03,695 - INFO - Starting Fourier differentiation test
+2025-04-26 22:41:03,730 - INFO - k=2, minimum N=14
+2025-04-26 22:41:03,766 - INFO - k=4, minimum N=22
+2025-04-26 22:41:03,824 - INFO - k=6, minimum N=30
+2025-04-26 22:41:03,888 - INFO - k=8, minimum N=36
+2025-04-26 22:41:03,970 - INFO - k=10, minimum N=42
+2025-04-26 22:41:04,060 - INFO - k=12, minimum N=48
+2025-04-26 22:41:04,061 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 22:42:51,437 - INFO - Starting main program execution
+2025-04-26 22:42:51,437 - INFO - Starting Fourier differentiation test for both methods
+2025-04-26 22:42:51,539 - INFO - odd method: k=2, minimum N=16, error=9.65e-05
+2025-04-26 22:42:51,590 - INFO - odd method: k=4, minimum N=24, error=8.56e-05
+2025-04-26 22:42:51,646 - INFO - odd method: k=6, minimum N=30, error=8.21e-04
+2025-04-26 22:42:51,720 - INFO - odd method: k=8, minimum N=36, error=3.71e-04
+2025-04-26 22:42:51,811 - INFO - odd method: k=10, minimum N=44, error=1.17e-04
+2025-04-26 22:42:51,909 - INFO - odd method: k=12, minimum N=48, error=7.15e-04
+2025-04-26 22:42:51,933 - INFO - even method: k=2, minimum N=14, error=8.63e-04
+2025-04-26 22:42:51,971 - INFO - even method: k=4, minimum N=22, error=5.71e-04
+2025-04-26 22:42:52,026 - INFO - even method: k=6, minimum N=30, error=2.34e-04
+2025-04-26 22:42:52,094 - INFO - even method: k=8, minimum N=36, error=4.08e-04
+2025-04-26 22:42:52,181 - INFO - even method: k=10, minimum N=42, error=5.96e-04
+2025-04-26 22:42:52,275 - INFO - even method: k=12, minimum N=48, error=7.93e-04
+2025-04-26 22:42:52,276 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 22:44:12,214 - INFO - Starting main program execution
+2025-04-26 22:44:12,214 - INFO - Starting Fourier differentiation test for both methods
+2025-04-26 22:44:12,226 - INFO - odd method: k=2, minimum N=20, error=1.08e-06
+2025-04-26 22:44:12,227 - INFO - odd method: k=4, minimum N=30, error=1.23e-06
+2025-04-26 22:44:12,227 - INFO - odd method: k=6, minimum N=30, error=8.21e-04
+2025-04-26 22:44:12,229 - INFO - odd method: k=8, minimum N=40, error=1.46e-05
+2025-04-26 22:44:12,231 - INFO - odd method: k=10, minimum N=50, error=3.59e-06
+2025-04-26 22:44:12,234 - INFO - odd method: k=12, minimum N=50, error=5.51e-04
+2025-04-26 22:44:12,235 - INFO - even method: k=2, minimum N=20, error=1.17e-06
+2025-04-26 22:44:12,235 - INFO - even method: k=4, minimum N=30, error=2.56e-07
+2025-04-26 22:44:12,236 - INFO - even method: k=6, minimum N=30, error=2.34e-04
+2025-04-26 22:44:12,238 - INFO - even method: k=8, minimum N=40, error=1.58e-05
+2025-04-26 22:44:12,240 - INFO - even method: k=10, minimum N=50, error=1.03e-06
+2025-04-26 22:44:12,243 - INFO - even method: k=12, minimum N=50, error=1.80e-04
+2025-04-26 22:44:12,243 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 22:46:01,883 - INFO - Starting main program execution
+2025-04-26 22:46:01,883 - INFO - Starting Fourier differentiation test for both methods
+2025-04-26 22:46:01,890 - INFO - odd method: k=2, minimum N=20, error=1.08e-06
+2025-04-26 22:46:01,891 - INFO - odd method: k=4, minimum N=30, error=1.23e-06
+2025-04-26 22:46:01,891 - INFO - odd method: k=6, minimum N=30, error=8.21e-04
+2025-04-26 22:46:01,893 - INFO - odd method: k=8, minimum N=40, error=1.46e-05
+2025-04-26 22:46:01,895 - INFO - odd method: k=10, minimum N=50, error=3.59e-06
+2025-04-26 22:46:01,898 - INFO - odd method: k=12, minimum N=50, error=5.51e-04
+2025-04-26 22:46:01,898 - INFO - even method: k=2, minimum N=20, error=1.17e-06
+2025-04-26 22:46:01,899 - INFO - even method: k=4, minimum N=30, error=2.56e-07
+2025-04-26 22:46:01,900 - INFO - even method: k=6, minimum N=30, error=2.34e-04
+2025-04-26 22:46:01,901 - INFO - even method: k=8, minimum N=40, error=1.58e-05
+2025-04-26 22:46:01,904 - INFO - even method: k=10, minimum N=50, error=1.03e-06
+2025-04-26 22:46:01,907 - INFO - even method: k=12, minimum N=50, error=1.80e-04
+2025-04-26 22:46:01,907 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 22:48:54,479 - INFO - Starting main program execution
+2025-04-26 22:48:54,480 - INFO - Starting Fourier differentiation test for both methods
+2025-04-26 22:48:54,487 - INFO - odd method: k=2, minimum N=16, error=9.65e-05
+2025-04-26 22:48:54,488 - INFO - odd method: k=4, minimum N=24, error=8.56e-05
+2025-04-26 22:48:54,491 - INFO - odd method: k=6, minimum N=30, error=8.21e-04
+2025-04-26 22:48:54,494 - INFO - odd method: k=8, minimum N=36, error=3.71e-04
+2025-04-26 22:48:54,501 - INFO - odd method: k=10, minimum N=44, error=1.17e-04
+2025-04-26 22:48:54,510 - INFO - odd method: k=12, minimum N=48, error=7.15e-04
+2025-04-26 22:48:54,511 - INFO - even method: k=2, minimum N=14, error=8.63e-04
+2025-04-26 22:48:54,512 - INFO - even method: k=4, minimum N=22, error=5.71e-04
+2025-04-26 22:48:54,514 - INFO - even method: k=6, minimum N=30, error=2.34e-04
+2025-04-26 22:48:54,519 - INFO - even method: k=8, minimum N=36, error=4.08e-04
+2025-04-26 22:48:54,525 - INFO - even method: k=10, minimum N=42, error=5.96e-04
+2025-04-26 22:48:54,535 - INFO - even method: k=12, minimum N=48, error=7.93e-04
+2025-04-26 22:48:54,535 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 22:50:11,082 - INFO - Starting main program execution
+2025-04-26 22:50:11,082 - INFO - Starting Fourier differentiation test for both methods
+2025-04-26 22:50:11,088 - INFO - odd method: k=2, minimum N=18, error=9.28e-04
+2025-04-26 22:50:11,090 - INFO - odd method: k=4, minimum N=30, error=9.60e-05
+2025-04-26 22:50:11,095 - INFO - odd method: k=6, minimum N=38, error=3.36e-04
+2025-04-26 22:50:11,102 - INFO - odd method: k=8, minimum N=46, error=9.33e-04
+2025-04-26 22:50:11,117 - INFO - odd method: k=10, minimum N=58, error=8.05e-05
+2025-04-26 22:50:11,140 - INFO - odd method: k=12, minimum N=66, error=2.02e-04
+2025-04-26 22:50:11,140 - INFO - even method: k=2, minimum N=18, error=3.41e-04
+2025-04-26 22:50:11,143 - INFO - even method: k=4, minimum N=28, error=3.00e-04
+2025-04-26 22:50:11,148 - INFO - even method: k=6, minimum N=38, error=1.79e-04
+2025-04-26 22:50:11,157 - INFO - even method: k=8, minimum N=46, error=5.51e-04
+2025-04-26 22:50:11,172 - INFO - even method: k=10, minimum N=56, error=2.68e-04
+2025-04-26 22:50:11,195 - INFO - even method: k=12, minimum N=64, error=7.23e-04
+2025-04-26 22:50:11,195 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 22:52:18,326 - INFO - Starting main program execution
+2025-04-26 22:52:18,326 - INFO - Starting Fourier differentiation test for both methods
+2025-04-26 22:52:18,346 - INFO - odd method: k=2, minimum N=18, error=9.28e-04
+2025-04-26 22:52:18,348 - INFO - odd method: k=4, minimum N=30, error=9.60e-05
+2025-04-26 22:52:18,353 - INFO - odd method: k=6, minimum N=38, error=3.36e-04
+2025-04-26 22:52:18,360 - INFO - odd method: k=8, minimum N=46, error=9.33e-04
+2025-04-26 22:52:18,410 - INFO - odd method: k=10, minimum N=58, error=8.05e-05
+2025-04-26 22:52:18,439 - INFO - odd method: k=12, minimum N=66, error=2.02e-04
+2025-04-26 22:52:18,440 - INFO - even method: k=2, minimum N=18, error=3.41e-04
+2025-04-26 22:52:18,442 - INFO - even method: k=4, minimum N=28, error=3.00e-04
+2025-04-26 22:52:18,447 - INFO - even method: k=6, minimum N=38, error=1.79e-04
+2025-04-26 22:52:18,455 - INFO - even method: k=8, minimum N=46, error=5.51e-04
+2025-04-26 22:52:18,470 - INFO - even method: k=10, minimum N=56, error=2.68e-04
+2025-04-26 22:52:18,493 - INFO - even method: k=12, minimum N=64, error=7.23e-04
+2025-04-26 22:52:18,493 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 22:54:09,086 - INFO - Starting main program execution
+2025-04-26 22:54:09,087 - INFO - Starting Fourier differentiation test for both methods
+2025-04-26 22:54:10,116 - INFO - odd method: k=2, minimum N=18, error=9.28e-04
+2025-04-26 22:54:10,173 - INFO - odd method: k=4, minimum N=30, error=9.60e-05
+2025-04-26 22:54:10,241 - INFO - odd method: k=6, minimum N=38, error=3.36e-04
+2025-04-26 22:54:10,321 - INFO - odd method: k=8, minimum N=46, error=9.33e-04
+2025-04-26 22:54:10,428 - INFO - odd method: k=10, minimum N=58, error=8.05e-05
+2025-04-26 22:54:10,554 - INFO - odd method: k=12, minimum N=66, error=2.02e-04
+2025-04-26 22:54:10,580 - INFO - even method: k=2, minimum N=18, error=3.41e-04
+2025-04-26 22:54:10,626 - INFO - even method: k=4, minimum N=28, error=3.00e-04
+2025-04-26 22:54:10,692 - INFO - even method: k=6, minimum N=38, error=1.79e-04
+2025-04-26 22:54:10,772 - INFO - even method: k=8, minimum N=46, error=5.51e-04
+2025-04-26 22:54:10,874 - INFO - even method: k=10, minimum N=56, error=2.68e-04
+2025-04-26 22:54:10,997 - INFO - even method: k=12, minimum N=64, error=7.23e-04
+2025-04-26 22:54:10,997 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 22:55:35,865 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-26 22:56:15,046 - INFO - Starting main program execution
+2025-04-26 22:56:15,046 - INFO - Starting Fourier differentiation test for both methods
+2025-04-26 22:56:15,133 - INFO - odd method: k=2, minimum N=18, error=9.28e-04
+2025-04-26 22:56:15,182 - INFO - odd method: k=4, minimum N=30, error=9.60e-05
+2025-04-26 22:56:15,245 - INFO - odd method: k=6, minimum N=38, error=3.36e-04
+2025-04-26 22:56:15,327 - INFO - odd method: k=8, minimum N=46, error=9.33e-04
+2025-04-26 22:56:15,434 - INFO - odd method: k=10, minimum N=58, error=8.05e-05
+2025-04-26 22:56:15,563 - INFO - odd method: k=12, minimum N=66, error=2.02e-04
+2025-04-26 22:56:15,590 - INFO - even method: k=2, minimum N=18, error=3.41e-04
+2025-04-26 22:56:15,634 - INFO - even method: k=4, minimum N=28, error=3.00e-04
+2025-04-26 22:56:15,698 - INFO - even method: k=6, minimum N=38, error=1.79e-04
+2025-04-26 22:56:15,777 - INFO - even method: k=8, minimum N=46, error=5.51e-04
+2025-04-26 22:56:15,886 - INFO - even method: k=10, minimum N=56, error=2.68e-04
+2025-04-26 22:56:16,014 - INFO - even method: k=12, minimum N=64, error=7.23e-04
+2025-04-26 22:56:16,014 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 22:57:40,301 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-26 22:59:27,571 - INFO - Starting main program execution
+2025-04-26 22:59:27,571 - INFO - Starting Fourier differentiation test for both methods
+2025-04-26 22:59:43,184 - INFO - Starting main program execution
+2025-04-26 22:59:43,184 - INFO - Starting Fourier differentiation test for both methods
+2025-04-26 23:00:01,468 - INFO - Starting main program execution
+2025-04-26 23:00:01,468 - INFO - Starting Fourier differentiation test for both methods
+2025-04-26 23:00:01,543 - INFO - odd method: k=2, minimum N=18, error=9.28e-04
+2025-04-26 23:00:01,604 - INFO - odd method: k=4, minimum N=30, error=9.60e-05
+2025-04-26 23:00:01,674 - INFO - odd method: k=6, minimum N=38, error=3.36e-04
+2025-04-26 23:00:01,750 - INFO - odd method: k=8, minimum N=46, error=9.33e-04
+2025-04-26 23:00:01,845 - INFO - odd method: k=10, minimum N=58, error=8.05e-05
+2025-04-26 23:00:01,952 - INFO - odd method: k=12, minimum N=66, error=2.02e-04
+2025-04-26 23:00:01,979 - INFO - even method: k=2, minimum N=18, error=3.41e-04
+2025-04-26 23:00:02,025 - INFO - even method: k=4, minimum N=28, error=3.00e-04
+2025-04-26 23:00:02,086 - INFO - even method: k=6, minimum N=38, error=1.79e-04
+2025-04-26 23:00:02,159 - INFO - even method: k=8, minimum N=46, error=5.51e-04
+2025-04-26 23:00:02,259 - INFO - even method: k=10, minimum N=56, error=2.68e-04
+2025-04-26 23:00:02,361 - INFO - even method: k=12, minimum N=64, error=7.23e-04
+2025-04-26 23:00:02,362 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 23:00:06,609 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-26 23:00:10,861 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-26 23:00:15,272 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-26 23:00:19,585 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-26 23:00:24,002 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-26 23:00:28,528 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-26 23:00:28,529 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 23:00:28,529 - ERROR - Error at N=20: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 20 is different from 21)
+2025-04-26 23:00:28,529 - ERROR - Error at N=40: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 40 is different from 41)
+2025-04-26 23:00:28,529 - ERROR - Error at N=80: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 80 is different from 81)
+2025-04-26 23:00:28,529 - ERROR - Error at N=160: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 160 is different from 161)
+2025-04-26 23:00:28,531 - ERROR - Error at N=320: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 320 is different from 321)
+2025-04-26 23:00:28,785 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 23:00:28,785 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-26 23:00:28,786 - ERROR - Error at N=20: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 20 is different from 21)
+2025-04-26 23:00:28,786 - ERROR - Error at N=40: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 40 is different from 41)
+2025-04-26 23:00:28,786 - ERROR - Error at N=80: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 80 is different from 81)
+2025-04-26 23:00:28,787 - ERROR - Error at N=160: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 160 is different from 161)
+2025-04-26 23:00:28,788 - ERROR - Error at N=320: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 320 is different from 321)
+2025-04-26 23:00:28,899 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-26 23:00:28,899 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-26 23:00:28,899 - ERROR - Error at N=20: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 20 is different from 21)
+2025-04-26 23:00:28,899 - ERROR - Error at N=40: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 40 is different from 41)
+2025-04-26 23:00:28,899 - ERROR - Error at N=80: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 80 is different from 81)
+2025-04-26 23:00:28,900 - ERROR - Error at N=160: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 160 is different from 161)
+2025-04-26 23:00:28,901 - ERROR - Error at N=320: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 320 is different from 321)
+2025-04-26 23:00:29,009 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-26 23:00:29,009 - INFO - Plotting PDE solutions for N=10
+2025-04-26 23:00:29,015 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 23:00:29,018 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 23:00:29,131 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 23:00:29,384 - INFO - Completed plotting for N=10
+2025-04-26 23:00:29,384 - INFO - Main program execution completed
+2025-04-26 23:01:00,037 - INFO - Starting main program execution
+2025-04-26 23:01:00,037 - INFO - Starting Fourier differentiation test for both methods
+2025-04-26 23:01:00,124 - INFO - odd method: k=2, minimum N=18, error=9.28e-04
+2025-04-26 23:01:00,217 - INFO - odd method: k=4, minimum N=30, error=9.60e-05
+2025-04-26 23:01:00,395 - INFO - odd method: k=6, minimum N=38, error=3.36e-04
+2025-04-26 23:01:00,505 - INFO - odd method: k=8, minimum N=46, error=9.33e-04
+2025-04-26 23:01:00,619 - INFO - odd method: k=10, minimum N=58, error=8.05e-05
+2025-04-26 23:01:00,754 - INFO - odd method: k=12, minimum N=66, error=2.02e-04
+2025-04-26 23:01:00,782 - INFO - even method: k=2, minimum N=18, error=3.41e-04
+2025-04-26 23:01:00,831 - INFO - even method: k=4, minimum N=28, error=3.00e-04
+2025-04-26 23:01:00,896 - INFO - even method: k=6, minimum N=38, error=1.79e-04
+2025-04-26 23:01:00,978 - INFO - even method: k=8, minimum N=46, error=5.51e-04
+2025-04-26 23:01:01,075 - INFO - even method: k=10, minimum N=56, error=2.68e-04
+2025-04-26 23:01:01,190 - INFO - even method: k=12, minimum N=64, error=7.23e-04
+2025-04-26 23:01:01,190 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 23:01:05,443 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-26 23:01:09,662 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-26 23:01:13,995 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-26 23:01:18,213 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-26 23:01:22,523 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-26 23:01:26,936 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-26 23:01:26,936 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 23:01:27,155 - INFO - N=20: L_inf error=1.07e-13, L2 error=1.58e-13
+2025-04-26 23:01:27,277 - INFO - N=40: L_inf error=6.39e-14, L2 error=1.62e-13
+2025-04-26 23:01:27,400 - INFO - N=80: L_inf error=1.44e-13, L2 error=5.74e-13
+2025-04-26 23:01:27,523 - INFO - N=160: L_inf error=2.72e-13, L2 error=1.01e-12
+2025-04-26 23:01:27,651 - INFO - N=320: L_inf error=8.97e-13, L2 error=3.38e-12
+2025-04-26 23:01:27,829 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 23:01:27,830 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-26 23:01:27,934 - INFO - N=20: L_inf error=4.64e+00, L2 error=7.86e+00
+2025-04-26 23:01:28,044 - INFO - N=40: L_inf error=9.05e+00, L2 error=1.54e+01
+2025-04-26 23:01:28,152 - INFO - N=80: L_inf error=1.79e+01, L2 error=3.04e+01
+2025-04-26 23:01:28,259 - INFO - N=160: L_inf error=3.55e+01, L2 error=6.03e+01
+2025-04-26 23:01:28,367 - INFO - N=320: L_inf error=7.08e+01, L2 error=1.20e+02
+2025-04-26 23:01:28,503 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-26 23:01:28,503 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-26 23:01:28,602 - INFO - N=20: L_inf error=1.46e+01, L2 error=2.47e+01
+2025-04-26 23:01:28,706 - INFO - N=40: L_inf error=2.84e+01, L2 error=4.83e+01
+2025-04-26 23:01:28,813 - INFO - N=80: L_inf error=5.61e+01, L2 error=9.54e+01
+2025-04-26 23:01:28,926 - INFO - N=160: L_inf error=1.12e+02, L2 error=1.90e+02
+2025-04-26 23:01:29,035 - INFO - N=320: L_inf error=2.23e+02, L2 error=3.78e+02
+2025-04-26 23:01:29,162 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-26 23:01:29,162 - INFO - Plotting PDE solutions for N=10
+2025-04-26 23:01:29,170 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 23:01:29,172 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 23:01:29,288 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 23:01:29,549 - INFO - Completed plotting for N=10
+2025-04-26 23:01:29,549 - INFO - Main program execution completed
+2025-04-26 23:06:53,679 - INFO - Starting main program execution
+2025-04-26 23:06:53,679 - INFO - Starting Fourier differentiation test for both methods
+2025-04-26 23:06:53,749 - INFO - odd method: k=2, minimum N=18, error=9.28e-04
+2025-04-26 23:06:53,866 - INFO - odd method: k=4, minimum N=30, error=9.60e-05
+2025-04-26 23:06:53,932 - INFO - odd method: k=6, minimum N=38, error=3.36e-04
+2025-04-26 23:06:54,010 - INFO - odd method: k=8, minimum N=46, error=9.33e-04
+2025-04-26 23:06:54,107 - INFO - odd method: k=10, minimum N=58, error=8.05e-05
+2025-04-26 23:06:54,216 - INFO - odd method: k=12, minimum N=66, error=2.02e-04
+2025-04-26 23:06:54,242 - INFO - even method: k=2, minimum N=18, error=3.41e-04
+2025-04-26 23:06:54,287 - INFO - even method: k=4, minimum N=28, error=3.00e-04
+2025-04-26 23:06:54,350 - INFO - even method: k=6, minimum N=38, error=1.79e-04
+2025-04-26 23:06:54,434 - INFO - even method: k=8, minimum N=46, error=5.51e-04
+2025-04-26 23:06:54,526 - INFO - even method: k=10, minimum N=56, error=2.68e-04
+2025-04-26 23:06:54,627 - INFO - even method: k=12, minimum N=64, error=7.23e-04
+2025-04-26 23:06:54,627 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 23:06:58,844 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-26 23:07:03,334 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-26 23:07:07,879 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-26 23:07:12,166 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-26 23:07:16,548 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-26 23:07:20,884 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-26 23:07:20,884 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 23:07:20,993 - INFO - N=20: L_inf error=1.07e-13, L2 error=1.58e-13
+2025-04-26 23:07:20,999 - INFO - N=40: L_inf error=6.39e-14, L2 error=1.62e-13
+2025-04-26 23:07:21,005 - INFO - N=80: L_inf error=1.44e-13, L2 error=5.74e-13
+2025-04-26 23:07:21,010 - INFO - N=160: L_inf error=2.72e-13, L2 error=1.01e-12
+2025-04-26 23:07:21,016 - INFO - N=320: L_inf error=8.97e-13, L2 error=3.38e-12
+2025-04-26 23:07:21,415 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 23:07:21,416 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-26 23:07:21,426 - INFO - N=20: L_inf error=4.64e+00, L2 error=7.86e+00
+2025-04-26 23:07:21,436 - INFO - N=40: L_inf error=9.05e+00, L2 error=1.54e+01
+2025-04-26 23:07:21,442 - INFO - N=80: L_inf error=1.79e+01, L2 error=3.04e+01
+2025-04-26 23:07:21,447 - INFO - N=160: L_inf error=3.55e+01, L2 error=6.03e+01
+2025-04-26 23:07:21,455 - INFO - N=320: L_inf error=7.08e+01, L2 error=1.20e+02
+2025-04-26 23:07:21,758 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-26 23:07:21,758 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-26 23:07:21,768 - INFO - N=20: L_inf error=1.46e+01, L2 error=2.47e+01
+2025-04-26 23:07:21,780 - INFO - N=40: L_inf error=2.84e+01, L2 error=4.83e+01
+2025-04-26 23:07:21,786 - INFO - N=80: L_inf error=5.61e+01, L2 error=9.54e+01
+2025-04-26 23:07:21,793 - INFO - N=160: L_inf error=1.12e+02, L2 error=1.90e+02
+2025-04-26 23:07:21,801 - INFO - N=320: L_inf error=2.23e+02, L2 error=3.78e+02
+2025-04-26 23:07:22,095 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-26 23:07:22,095 - INFO - Plotting PDE solutions for N=10
+2025-04-26 23:07:22,102 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 23:07:22,105 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 23:07:22,222 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 23:07:22,487 - INFO - Completed plotting for N=10
+2025-04-26 23:07:22,487 - INFO - Main program execution completed
+2025-04-26 23:09:10,949 - INFO - Starting main program execution
+2025-04-26 23:09:10,949 - INFO - Starting Fourier differentiation test for both methods
+2025-04-26 23:09:11,022 - INFO - odd method: k=2, minimum N=18, error=9.28e-04
+2025-04-26 23:09:11,102 - INFO - odd method: k=4, minimum N=30, error=9.60e-05
+2025-04-26 23:09:11,206 - INFO - odd method: k=6, minimum N=38, error=3.36e-04
+2025-04-26 23:09:11,301 - INFO - odd method: k=8, minimum N=46, error=9.33e-04
+2025-04-26 23:09:11,407 - INFO - odd method: k=10, minimum N=58, error=8.05e-05
+2025-04-26 23:09:11,594 - INFO - odd method: k=12, minimum N=66, error=2.02e-04
+2025-04-26 23:09:11,624 - INFO - even method: k=2, minimum N=18, error=3.41e-04
+2025-04-26 23:09:11,681 - INFO - even method: k=4, minimum N=28, error=3.00e-04
+2025-04-26 23:09:11,748 - INFO - even method: k=6, minimum N=38, error=1.79e-04
+2025-04-26 23:09:11,830 - INFO - even method: k=8, minimum N=46, error=5.51e-04
+2025-04-26 23:09:11,927 - INFO - even method: k=10, minimum N=56, error=2.68e-04
+2025-04-26 23:09:12,033 - INFO - even method: k=12, minimum N=64, error=7.23e-04
+2025-04-26 23:09:12,033 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 23:09:16,271 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-26 23:09:20,456 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-26 23:09:24,682 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-26 23:09:29,055 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-26 23:09:33,489 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-26 23:09:37,829 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-26 23:09:37,829 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 23:09:37,935 - INFO - N=4: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:09:37,945 - INFO - N=8: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:09:37,960 - INFO - N=16: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:09:37,985 - INFO - N=32: L_inf error=1.00e+01, L2 error=1.59e+02
+2025-04-26 23:09:38,029 - INFO - N=64: L_inf error=1.00e+01, L2 error=1.59e+02
+2025-04-26 23:09:38,241 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 23:09:38,241 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-26 23:09:38,254 - INFO - N=4: L_inf error=1.30e+00, L2 error=1.78e+01
+2025-04-26 23:09:38,266 - INFO - N=8: L_inf error=1.33e+00, L2 error=1.77e+01
+2025-04-26 23:09:38,281 - INFO - N=16: L_inf error=1.32e+00, L2 error=1.77e+01
+2025-04-26 23:09:38,306 - INFO - N=32: L_inf error=1.30e+00, L2 error=1.77e+01
+2025-04-26 23:09:38,348 - INFO - N=64: L_inf error=1.29e+00, L2 error=1.77e+01
+2025-04-26 23:09:38,525 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-26 23:09:38,525 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-26 23:09:38,537 - INFO - N=4: L_inf error=3.97e+00, L2 error=4.80e+01
+2025-04-26 23:09:38,549 - INFO - N=8: L_inf error=5.05e+00, L2 error=5.57e+01
+2025-04-26 23:09:38,565 - INFO - N=16: L_inf error=5.61e+00, L2 error=5.93e+01
+2025-04-26 23:09:38,588 - INFO - N=32: L_inf error=5.89e+00, L2 error=6.10e+01
+2025-04-26 23:09:38,630 - INFO - N=64: L_inf error=6.03e+00, L2 error=6.19e+01
+2025-04-26 23:09:38,801 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-26 23:09:38,801 - INFO - Plotting PDE solutions for N=10
+2025-04-26 23:09:38,807 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 23:09:38,810 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 23:09:38,921 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 23:09:39,173 - INFO - Completed plotting for N=10
+2025-04-26 23:09:39,173 - INFO - Main program execution completed
+2025-04-26 23:14:11,825 - INFO - Starting main program execution
+2025-04-26 23:14:11,826 - INFO - Starting Fourier differentiation test for both methods
+2025-04-26 23:14:11,902 - INFO - odd method: k=2, minimum N=18, error=9.28e-04
+2025-04-26 23:14:11,969 - INFO - odd method: k=4, minimum N=30, error=9.60e-05
+2025-04-26 23:14:12,062 - INFO - odd method: k=6, minimum N=38, error=3.36e-04
+2025-04-26 23:14:12,146 - INFO - odd method: k=8, minimum N=46, error=9.33e-04
+2025-04-26 23:14:12,257 - INFO - odd method: k=10, minimum N=58, error=8.05e-05
+2025-04-26 23:14:12,377 - INFO - odd method: k=12, minimum N=66, error=2.02e-04
+2025-04-26 23:14:12,405 - INFO - even method: k=2, minimum N=18, error=3.41e-04
+2025-04-26 23:14:12,453 - INFO - even method: k=4, minimum N=28, error=3.00e-04
+2025-04-26 23:14:12,517 - INFO - even method: k=6, minimum N=38, error=1.79e-04
+2025-04-26 23:14:12,604 - INFO - even method: k=8, minimum N=46, error=5.51e-04
+2025-04-26 23:14:12,699 - INFO - even method: k=10, minimum N=56, error=2.68e-04
+2025-04-26 23:14:12,805 - INFO - even method: k=12, minimum N=64, error=7.23e-04
+2025-04-26 23:14:12,805 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 23:14:16,965 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-26 23:14:21,132 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-26 23:14:25,367 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-26 23:14:29,671 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-26 23:14:33,977 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-26 23:14:38,264 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-26 23:14:38,264 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 23:14:38,372 - INFO - N=4: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:14:38,383 - INFO - N=8: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:14:38,398 - INFO - N=16: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:14:38,421 - INFO - N=32: L_inf error=1.00e+01, L2 error=1.59e+02
+2025-04-26 23:14:38,463 - INFO - N=64: L_inf error=1.00e+01, L2 error=1.59e+02
+2025-04-26 23:14:38,684 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 23:14:38,684 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-26 23:14:38,697 - INFO - N=4: L_inf error=1.30e+00, L2 error=1.78e+01
+2025-04-26 23:14:38,710 - INFO - N=8: L_inf error=1.33e+00, L2 error=1.77e+01
+2025-04-26 23:14:38,724 - INFO - N=16: L_inf error=1.32e+00, L2 error=1.77e+01
+2025-04-26 23:14:38,749 - INFO - N=32: L_inf error=1.30e+00, L2 error=1.77e+01
+2025-04-26 23:14:38,792 - INFO - N=64: L_inf error=1.29e+00, L2 error=1.77e+01
+2025-04-26 23:14:38,976 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-26 23:14:38,976 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-26 23:14:38,988 - INFO - N=4: L_inf error=3.97e+00, L2 error=4.80e+01
+2025-04-26 23:14:39,001 - INFO - N=8: L_inf error=5.05e+00, L2 error=5.57e+01
+2025-04-26 23:14:39,015 - INFO - N=16: L_inf error=5.61e+00, L2 error=5.93e+01
+2025-04-26 23:14:39,039 - INFO - N=32: L_inf error=5.89e+00, L2 error=6.10e+01
+2025-04-26 23:14:39,079 - INFO - N=64: L_inf error=6.03e+00, L2 error=6.19e+01
+2025-04-26 23:14:39,250 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-26 23:14:39,250 - INFO - Plotting PDE solutions for N=10
+2025-04-26 23:14:39,256 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 23:14:39,258 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 23:14:39,367 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 23:14:39,619 - INFO - Completed plotting for N=10
+2025-04-26 23:14:39,619 - INFO - Main program execution completed
+2025-04-26 23:15:45,607 - INFO - Starting main program execution
+2025-04-26 23:15:45,607 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 23:15:45,707 - INFO - N=4: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:15:45,720 - INFO - N=8: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:15:45,736 - INFO - N=16: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:15:45,762 - INFO - N=32: L_inf error=1.00e+01, L2 error=1.59e+02
+2025-04-26 23:15:45,808 - INFO - N=64: L_inf error=1.00e+01, L2 error=1.59e+02
+2025-04-26 23:15:46,031 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 23:15:46,031 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-26 23:15:46,046 - INFO - N=4: L_inf error=1.16e+00, L2 error=1.76e+01
+2025-04-26 23:15:46,065 - INFO - N=8: L_inf error=1.12e+00, L2 error=1.77e+01
+2025-04-26 23:15:46,085 - INFO - N=16: L_inf error=1.12e+00, L2 error=1.77e+01
+2025-04-26 23:15:46,114 - INFO - N=32: L_inf error=1.12e+00, L2 error=1.77e+01
+2025-04-26 23:15:46,159 - INFO - N=64: L_inf error=1.12e+00, L2 error=1.77e+01
+2025-04-26 23:15:46,331 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-26 23:15:46,331 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-26 23:15:46,343 - INFO - N=4: L_inf error=3.97e+00, L2 error=4.80e+01
+2025-04-26 23:15:46,356 - INFO - N=8: L_inf error=5.05e+00, L2 error=5.57e+01
+2025-04-26 23:15:46,371 - INFO - N=16: L_inf error=5.61e+00, L2 error=5.93e+01
+2025-04-26 23:15:46,394 - INFO - N=32: L_inf error=5.89e+00, L2 error=6.10e+01
+2025-04-26 23:15:46,438 - INFO - N=64: L_inf error=6.03e+00, L2 error=6.19e+01
+2025-04-26 23:15:46,609 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-26 23:15:46,609 - INFO - Main program execution completed
+2025-04-26 23:16:57,582 - INFO - Starting main program execution
+2025-04-26 23:16:57,582 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 23:16:57,682 - INFO - N=4: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:16:57,694 - INFO - N=8: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:16:57,708 - INFO - N=16: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:16:57,731 - INFO - N=32: L_inf error=1.00e+01, L2 error=1.59e+02
+2025-04-26 23:16:57,773 - INFO - N=64: L_inf error=1.00e+01, L2 error=1.59e+02
+2025-04-26 23:16:57,988 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 23:16:57,988 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-26 23:16:58,001 - INFO - N=4: L_inf error=1.16e+00, L2 error=1.76e+01
+2025-04-26 23:16:58,014 - INFO - N=8: L_inf error=1.12e+00, L2 error=1.77e+01
+2025-04-26 23:16:58,029 - INFO - N=16: L_inf error=1.12e+00, L2 error=1.77e+01
+2025-04-26 23:16:58,053 - INFO - N=32: L_inf error=1.12e+00, L2 error=1.77e+01
+2025-04-26 23:16:58,095 - INFO - N=64: L_inf error=1.12e+00, L2 error=1.77e+01
+2025-04-26 23:16:58,263 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-26 23:16:58,263 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-26 23:16:58,277 - INFO - N=4: L_inf error=3.97e+00, L2 error=4.80e+01
+2025-04-26 23:16:58,291 - INFO - N=8: L_inf error=5.05e+00, L2 error=5.57e+01
+2025-04-26 23:16:58,305 - INFO - N=16: L_inf error=5.61e+00, L2 error=5.93e+01
+2025-04-26 23:16:58,328 - INFO - N=32: L_inf error=5.89e+00, L2 error=6.10e+01
+2025-04-26 23:16:58,371 - INFO - N=64: L_inf error=6.03e+00, L2 error=6.19e+01
+2025-04-26 23:16:58,541 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-26 23:16:58,541 - INFO - Main program execution completed
+2025-04-26 23:17:21,613 - INFO - Starting main program execution
+2025-04-26 23:17:21,614 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 23:17:21,712 - INFO - N=4: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:17:21,726 - INFO - N=8: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:17:21,743 - INFO - N=16: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:17:21,770 - INFO - N=32: L_inf error=1.00e+01, L2 error=1.59e+02
+2025-04-26 23:17:21,815 - INFO - N=64: L_inf error=1.00e+01, L2 error=1.59e+02
+2025-04-26 23:17:21,951 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 23:17:21,951 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-26 23:17:21,965 - INFO - N=4: L_inf error=1.16e+00, L2 error=1.76e+01
+2025-04-26 23:17:21,981 - INFO - N=8: L_inf error=1.12e+00, L2 error=1.77e+01
+2025-04-26 23:17:21,997 - INFO - N=16: L_inf error=1.12e+00, L2 error=1.77e+01
+2025-04-26 23:17:22,024 - INFO - N=32: L_inf error=1.12e+00, L2 error=1.77e+01
+2025-04-26 23:17:22,068 - INFO - N=64: L_inf error=1.12e+00, L2 error=1.77e+01
+2025-04-26 23:17:22,176 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-26 23:17:22,176 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-26 23:17:22,189 - INFO - N=4: L_inf error=3.97e+00, L2 error=4.80e+01
+2025-04-26 23:17:22,202 - INFO - N=8: L_inf error=5.05e+00, L2 error=5.57e+01
+2025-04-26 23:17:22,217 - INFO - N=16: L_inf error=5.61e+00, L2 error=5.93e+01
+2025-04-26 23:17:22,242 - INFO - N=32: L_inf error=5.89e+00, L2 error=6.10e+01
+2025-04-26 23:17:22,286 - INFO - N=64: L_inf error=6.03e+00, L2 error=6.19e+01
+2025-04-26 23:17:22,394 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-26 23:17:22,395 - INFO - Main program execution completed
+2025-04-26 23:17:59,801 - INFO - Starting main program execution
+2025-04-26 23:17:59,801 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 23:17:59,907 - INFO - N=4: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:17:59,920 - INFO - N=8: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:17:59,935 - INFO - N=16: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:17:59,962 - INFO - N=32: L_inf error=1.00e+01, L2 error=1.59e+02
+2025-04-26 23:18:00,012 - INFO - N=64: L_inf error=1.00e+01, L2 error=1.59e+02
+2025-04-26 23:18:00,158 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 23:18:00,158 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-26 23:18:00,172 - INFO - N=4: L_inf error=1.16e+00, L2 error=1.76e+01
+2025-04-26 23:18:00,187 - INFO - N=8: L_inf error=1.12e+00, L2 error=1.77e+01
+2025-04-26 23:18:00,204 - INFO - N=16: L_inf error=1.12e+00, L2 error=1.77e+01
+2025-04-26 23:18:00,232 - INFO - N=32: L_inf error=1.12e+00, L2 error=1.77e+01
+2025-04-26 23:18:00,278 - INFO - N=64: L_inf error=1.12e+00, L2 error=1.77e+01
+2025-04-26 23:18:00,398 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-26 23:18:00,398 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-26 23:18:00,411 - INFO - N=4: L_inf error=3.97e+00, L2 error=4.80e+01
+2025-04-26 23:18:00,426 - INFO - N=8: L_inf error=5.05e+00, L2 error=5.57e+01
+2025-04-26 23:18:00,444 - INFO - N=16: L_inf error=5.61e+00, L2 error=5.93e+01
+2025-04-26 23:18:00,472 - INFO - N=32: L_inf error=5.89e+00, L2 error=6.10e+01
+2025-04-26 23:18:00,517 - INFO - N=64: L_inf error=6.03e+00, L2 error=6.19e+01
+2025-04-26 23:18:00,625 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-26 23:18:00,625 - INFO - Main program execution completed
+2025-04-26 23:18:55,755 - INFO - Starting main program execution
+2025-04-26 23:18:55,755 - INFO - Starting Fourier differentiation test for both methods
+2025-04-26 23:18:55,828 - INFO - odd method: k=2, minimum N=18, error=9.28e-04
+2025-04-26 23:18:55,882 - INFO - odd method: k=4, minimum N=30, error=9.60e-05
+2025-04-26 23:18:55,945 - INFO - odd method: k=6, minimum N=38, error=3.36e-04
+2025-04-26 23:18:56,018 - INFO - odd method: k=8, minimum N=46, error=9.33e-04
+2025-04-26 23:18:56,114 - INFO - odd method: k=10, minimum N=58, error=8.05e-05
+2025-04-26 23:18:56,220 - INFO - odd method: k=12, minimum N=66, error=2.02e-04
+2025-04-26 23:18:56,246 - INFO - even method: k=2, minimum N=18, error=3.41e-04
+2025-04-26 23:18:56,293 - INFO - even method: k=4, minimum N=28, error=3.00e-04
+2025-04-26 23:18:56,354 - INFO - even method: k=6, minimum N=38, error=1.79e-04
+2025-04-26 23:18:56,427 - INFO - even method: k=8, minimum N=46, error=5.51e-04
+2025-04-26 23:18:56,517 - INFO - even method: k=10, minimum N=56, error=2.68e-04
+2025-04-26 23:18:56,625 - INFO - even method: k=12, minimum N=64, error=7.23e-04
+2025-04-26 23:18:56,625 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-26 23:19:00,914 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-26 23:19:05,217 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-26 23:19:09,527 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-26 23:19:13,844 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-26 23:19:18,146 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-26 23:19:22,427 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-26 23:19:22,427 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 23:19:22,531 - INFO - N=4: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:19:22,542 - INFO - N=8: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:19:22,557 - INFO - N=16: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-26 23:19:22,580 - INFO - N=32: L_inf error=1.00e+01, L2 error=1.59e+02
+2025-04-26 23:19:22,622 - INFO - N=64: L_inf error=1.00e+01, L2 error=1.59e+02
+2025-04-26 23:19:22,912 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-26 23:19:22,912 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-26 23:19:22,925 - INFO - N=4: L_inf error=1.30e+00, L2 error=1.78e+01
+2025-04-26 23:19:22,937 - INFO - N=8: L_inf error=1.33e+00, L2 error=1.77e+01
+2025-04-26 23:19:22,952 - INFO - N=16: L_inf error=1.32e+00, L2 error=1.77e+01
+2025-04-26 23:19:22,975 - INFO - N=32: L_inf error=1.30e+00, L2 error=1.77e+01
+2025-04-26 23:19:23,016 - INFO - N=64: L_inf error=1.29e+00, L2 error=1.77e+01
+2025-04-26 23:19:23,260 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-26 23:19:23,260 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-26 23:19:23,275 - INFO - N=4: L_inf error=3.97e+00, L2 error=4.80e+01
+2025-04-26 23:19:23,288 - INFO - N=8: L_inf error=5.05e+00, L2 error=5.57e+01
+2025-04-26 23:19:23,303 - INFO - N=16: L_inf error=5.61e+00, L2 error=5.93e+01
+2025-04-26 23:19:23,327 - INFO - N=32: L_inf error=5.89e+00, L2 error=6.10e+01
+2025-04-26 23:19:23,370 - INFO - N=64: L_inf error=6.03e+00, L2 error=6.19e+01
+2025-04-26 23:19:23,613 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-26 23:19:23,613 - INFO - Plotting PDE solutions for N=10
+2025-04-26 23:19:23,619 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 23:19:23,622 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 23:19:23,736 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-26 23:19:23,982 - INFO - Completed plotting for N=10
+2025-04-26 23:19:23,982 - INFO - Main program execution completed
+2025-04-27 13:17:42,076 - INFO - Starting main program execution
+2025-04-27 13:17:42,077 - INFO - Starting Fourier differentiation test for both methods
+2025-04-27 13:17:42,147 - INFO - odd method: k=2, minimum N=18, error=9.28e-04
+2025-04-27 13:17:42,200 - INFO - odd method: k=4, minimum N=30, error=9.60e-05
+2025-04-27 13:17:42,265 - INFO - odd method: k=6, minimum N=38, error=3.36e-04
+2025-04-27 13:17:42,341 - INFO - odd method: k=8, minimum N=46, error=9.33e-04
+2025-04-27 13:17:42,432 - INFO - odd method: k=10, minimum N=58, error=8.05e-05
+2025-04-27 13:17:42,536 - INFO - odd method: k=12, minimum N=66, error=2.02e-04
+2025-04-27 13:17:42,561 - INFO - even method: k=2, minimum N=18, error=3.41e-04
+2025-04-27 13:17:42,604 - INFO - even method: k=4, minimum N=28, error=3.00e-04
+2025-04-27 13:17:42,664 - INFO - even method: k=6, minimum N=38, error=1.79e-04
+2025-04-27 13:17:42,746 - INFO - even method: k=8, minimum N=46, error=5.51e-04
+2025-04-27 13:17:42,834 - INFO - even method: k=10, minimum N=56, error=2.68e-04
+2025-04-27 13:17:42,936 - INFO - even method: k=12, minimum N=64, error=7.23e-04
+2025-04-27 13:17:42,936 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-27 13:17:47,028 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-27 13:17:51,204 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-27 13:17:55,296 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-27 13:17:59,662 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-27 13:18:04,114 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-27 13:18:08,354 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-27 13:18:08,354 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 13:18:08,357 - INFO - N=4: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-27 13:18:08,365 - INFO - N=8: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-27 13:18:08,378 - INFO - N=16: L_inf error=1.10e+01, L2 error=1.59e+02
+2025-04-27 13:18:08,401 - INFO - N=32: L_inf error=1.00e+01, L2 error=1.59e+02
+2025-04-27 13:18:08,441 - INFO - N=64: L_inf error=1.00e+01, L2 error=1.59e+02
+2025-04-27 13:18:08,697 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 13:18:08,697 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 13:18:08,699 - INFO - N=4: L_inf error=1.30e+00, L2 error=1.78e+01
+2025-04-27 13:18:08,713 - INFO - N=8: L_inf error=1.33e+00, L2 error=1.77e+01
+2025-04-27 13:18:08,728 - INFO - N=16: L_inf error=1.32e+00, L2 error=1.77e+01
+2025-04-27 13:18:08,750 - INFO - N=32: L_inf error=1.30e+00, L2 error=1.77e+01
+2025-04-27 13:18:08,791 - INFO - N=64: L_inf error=1.29e+00, L2 error=1.77e+01
+2025-04-27 13:18:08,895 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 13:18:08,895 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 13:18:08,897 - INFO - N=4: L_inf error=3.97e+00, L2 error=4.80e+01
+2025-04-27 13:18:08,910 - INFO - N=8: L_inf error=5.05e+00, L2 error=5.57e+01
+2025-04-27 13:18:08,924 - INFO - N=16: L_inf error=5.61e+00, L2 error=5.93e+01
+2025-04-27 13:18:08,946 - INFO - N=32: L_inf error=5.89e+00, L2 error=6.10e+01
+2025-04-27 13:18:08,986 - INFO - N=64: L_inf error=6.03e+00, L2 error=6.19e+01
+2025-04-27 13:18:09,097 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 13:18:09,097 - INFO - Plotting PDE solutions for N=10
+2025-04-27 13:18:09,102 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 13:18:09,105 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 13:18:09,214 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 13:18:09,459 - INFO - Completed plotting for N=10
+2025-04-27 13:18:09,459 - INFO - Main program execution completed
+2025-04-27 13:22:05,908 - INFO - Starting main program execution
+2025-04-27 13:22:05,908 - INFO - Starting Fourier differentiation test for both methods
+2025-04-27 13:22:05,979 - INFO - odd method: k=2, minimum N=18, error=9.28e-04
+2025-04-27 13:22:06,045 - INFO - odd method: k=4, minimum N=30, error=9.60e-05
+2025-04-27 13:22:06,138 - INFO - odd method: k=6, minimum N=38, error=3.36e-04
+2025-04-27 13:22:06,230 - INFO - odd method: k=8, minimum N=46, error=9.33e-04
+2025-04-27 13:22:06,344 - INFO - odd method: k=10, minimum N=58, error=8.05e-05
+2025-04-27 13:22:06,519 - INFO - odd method: k=12, minimum N=66, error=2.02e-04
+2025-04-27 13:22:06,550 - INFO - even method: k=2, minimum N=18, error=3.41e-04
+2025-04-27 13:22:06,597 - INFO - even method: k=4, minimum N=28, error=3.00e-04
+2025-04-27 13:22:06,668 - INFO - even method: k=6, minimum N=38, error=1.79e-04
+2025-04-27 13:22:06,750 - INFO - even method: k=8, minimum N=46, error=5.51e-04
+2025-04-27 13:22:06,845 - INFO - even method: k=10, minimum N=56, error=2.68e-04
+2025-04-27 13:22:06,950 - INFO - even method: k=12, minimum N=64, error=7.23e-04
+2025-04-27 13:22:06,950 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-27 13:22:11,192 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-27 13:22:15,505 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-27 13:22:19,731 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-27 13:22:23,977 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-27 13:22:28,289 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-27 13:22:32,592 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-27 13:22:32,593 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 13:22:32,696 - INFO - N=4: L_inf error=1.82e+00, L2 error=2.23e+01
+2025-04-27 13:22:32,706 - INFO - N=8: L_inf error=1.82e+00, L2 error=2.23e+01
+2025-04-27 13:22:32,721 - INFO - N=16: L_inf error=1.86e+00, L2 error=2.23e+01
+2025-04-27 13:22:32,744 - INFO - N=32: L_inf error=7.55e-15, L2 error=4.89e-14
+2025-04-27 13:22:32,785 - INFO - N=64: L_inf error=1.43e-14, L2 error=8.53e-14
+2025-04-27 13:22:33,070 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 13:22:33,070 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 13:22:33,083 - INFO - N=4: L_inf error=2.00e+00, L2 error=1.36e+01
+2025-04-27 13:22:33,096 - INFO - N=8: L_inf error=2.00e+00, L2 error=9.70e+00
+2025-04-27 13:22:33,110 - INFO - N=16: L_inf error=2.00e+00, L2 error=6.97e+00
+2025-04-27 13:22:33,133 - INFO - N=32: L_inf error=2.00e+00, L2 error=5.05e+00
+2025-04-27 13:22:33,175 - INFO - N=64: L_inf error=2.00e+00, L2 error=3.72e+00
+2025-04-27 13:22:33,412 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 13:22:33,412 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 13:22:33,424 - INFO - N=4: L_inf error=6.28e+00, L2 error=4.23e+01
+2025-04-27 13:22:33,436 - INFO - N=8: L_inf error=6.28e+00, L2 error=3.04e+01
+2025-04-27 13:22:33,452 - INFO - N=16: L_inf error=6.28e+00, L2 error=2.19e+01
+2025-04-27 13:22:33,475 - INFO - N=32: L_inf error=6.28e+00, L2 error=1.59e+01
+2025-04-27 13:22:33,515 - INFO - N=64: L_inf error=6.28e+00, L2 error=1.17e+01
+2025-04-27 13:22:33,750 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 13:22:33,750 - INFO - Plotting PDE solutions for N=10
+2025-04-27 13:22:33,757 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 13:22:33,759 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 13:22:33,872 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 13:22:34,122 - INFO - Completed plotting for N=10
+2025-04-27 13:22:34,122 - INFO - Main program execution completed
+2025-04-27 13:42:12,978 - INFO - Starting main program execution
+2025-04-27 13:42:12,978 - INFO - Starting Fourier differentiation test for both methods
+2025-04-27 13:42:13,051 - INFO - odd method: k=2, minimum N=18, error=9.28e-04
+2025-04-27 13:42:13,097 - INFO - odd method: k=4, minimum N=30, error=9.60e-05
+2025-04-27 13:42:13,155 - INFO - odd method: k=6, minimum N=38, error=3.36e-04
+2025-04-27 13:42:13,225 - INFO - odd method: k=8, minimum N=46, error=9.33e-04
+2025-04-27 13:42:13,316 - INFO - odd method: k=10, minimum N=58, error=8.05e-05
+2025-04-27 13:42:13,418 - INFO - odd method: k=12, minimum N=66, error=2.02e-04
+2025-04-27 13:42:13,444 - INFO - even method: k=2, minimum N=18, error=3.41e-04
+2025-04-27 13:42:13,485 - INFO - even method: k=4, minimum N=28, error=3.00e-04
+2025-04-27 13:42:13,542 - INFO - even method: k=6, minimum N=38, error=1.79e-04
+2025-04-27 13:42:13,612 - INFO - even method: k=8, minimum N=46, error=5.51e-04
+2025-04-27 13:42:13,699 - INFO - even method: k=10, minimum N=56, error=2.68e-04
+2025-04-27 13:42:13,807 - INFO - even method: k=12, minimum N=64, error=7.23e-04
+2025-04-27 13:42:13,807 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-27 13:42:18,049 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-27 13:42:22,288 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-27 13:42:26,611 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-27 13:42:31,164 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-27 13:42:35,540 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-27 13:42:39,921 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-27 13:42:39,922 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 13:42:40,388 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 13:42:40,388 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 13:42:40,686 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 13:42:40,686 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 13:42:41,001 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 13:42:41,001 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 13:42:41,273 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 13:42:41,273 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 13:42:41,590 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 13:42:41,590 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 13:42:41,858 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 13:42:41,858 - INFO - Plotting PDE solutions for N=10
+2025-04-27 13:42:41,863 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 13:42:41,866 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 13:42:41,977 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 13:42:42,222 - INFO - Completed plotting for N=10
+2025-04-27 13:42:42,222 - INFO - Main program execution completed
+2025-04-27 13:51:25,013 - INFO - Starting main program execution
+2025-04-27 13:51:25,013 - INFO - Starting Fourier differentiation test for both methods
+2025-04-27 13:51:25,075 - INFO - odd method: k=2, minimum N=18, error=9.28e-04
+2025-04-27 13:51:25,127 - INFO - odd method: k=4, minimum N=30, error=9.60e-05
+2025-04-27 13:51:25,207 - INFO - odd method: k=6, minimum N=38, error=3.36e-04
+2025-04-27 13:51:25,285 - INFO - odd method: k=8, minimum N=46, error=9.33e-04
+2025-04-27 13:51:25,380 - INFO - odd method: k=10, minimum N=58, error=8.05e-05
+2025-04-27 13:51:25,481 - INFO - odd method: k=12, minimum N=66, error=2.02e-04
+2025-04-27 13:51:25,507 - INFO - even method: k=2, minimum N=18, error=3.41e-04
+2025-04-27 13:51:25,548 - INFO - even method: k=4, minimum N=28, error=3.00e-04
+2025-04-27 13:51:25,605 - INFO - even method: k=6, minimum N=38, error=1.79e-04
+2025-04-27 13:51:25,676 - INFO - even method: k=8, minimum N=46, error=5.51e-04
+2025-04-27 13:51:25,784 - INFO - even method: k=10, minimum N=56, error=2.68e-04
+2025-04-27 13:51:25,883 - INFO - even method: k=12, minimum N=64, error=7.23e-04
+2025-04-27 13:51:25,883 - INFO - Starting Fourier differentiation accuracy test with method=even
+2025-04-27 13:51:29,874 - WARNING - Failed to achieve tolerance for k=2 within N=1000
+2025-04-27 13:51:33,978 - WARNING - Failed to achieve tolerance for k=4 within N=1000
+2025-04-27 13:51:38,094 - WARNING - Failed to achieve tolerance for k=6 within N=1000
+2025-04-27 13:51:42,557 - WARNING - Failed to achieve tolerance for k=8 within N=1000
+2025-04-27 13:51:46,750 - WARNING - Failed to achieve tolerance for k=10 within N=1000
+2025-04-27 13:51:51,208 - WARNING - Failed to achieve tolerance for k=12 within N=1000
+2025-04-27 13:51:51,209 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 13:51:51,686 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 13:51:51,686 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 13:51:52,020 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 13:51:52,020 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 13:51:52,323 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 13:51:52,323 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 13:51:52,587 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 13:51:52,587 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 13:51:52,892 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 13:51:52,892 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 13:51:53,158 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 13:51:53,158 - INFO - Plotting PDE solutions for N=10
+2025-04-27 13:51:53,163 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 13:51:53,166 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 13:51:53,275 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 13:51:53,517 - INFO - Completed plotting for N=10
+2025-04-27 13:51:54,395 - INFO - Main program execution completed
+2025-04-27 13:53:28,560 - INFO - Starting main program execution
+2025-04-27 13:53:28,560 - INFO - Starting Fourier differentiation test for both methods
+2025-04-27 13:53:28,623 - INFO - odd method: k=2, minimum N=18, error=9.28e-04
+2025-04-27 13:53:28,694 - INFO - odd method: k=4, minimum N=30, error=9.60e-05
+2025-04-27 13:53:28,783 - INFO - odd method: k=6, minimum N=38, error=3.36e-04
+2025-04-27 13:53:28,865 - INFO - odd method: k=8, minimum N=46, error=9.33e-04
+2025-04-27 13:53:28,968 - INFO - odd method: k=10, minimum N=58, error=8.05e-05
+2025-04-27 13:53:29,088 - INFO - odd method: k=12, minimum N=66, error=2.02e-04
+2025-04-27 13:53:29,113 - INFO - even method: k=2, minimum N=18, error=3.41e-04
+2025-04-27 13:53:29,154 - INFO - even method: k=4, minimum N=28, error=3.00e-04
+2025-04-27 13:53:29,213 - INFO - even method: k=6, minimum N=38, error=1.79e-04
+2025-04-27 13:53:29,285 - INFO - even method: k=8, minimum N=46, error=5.51e-04
+2025-04-27 13:53:29,370 - INFO - even method: k=10, minimum N=56, error=2.68e-04
+2025-04-27 13:53:29,467 - INFO - even method: k=12, minimum N=64, error=7.23e-04
+2025-04-27 13:53:29,467 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 13:53:29,941 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 13:53:29,941 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 13:53:30,243 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 13:53:30,243 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 13:53:30,545 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 13:53:30,545 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 13:53:30,813 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 13:53:30,813 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 13:53:31,123 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 13:53:31,123 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 13:53:31,384 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 13:53:31,384 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 13:53:31,703 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 13:53:31,703 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 13:53:31,961 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 13:53:31,961 - INFO - Plotting PDE solutions for N=10
+2025-04-27 13:53:31,967 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 13:53:31,969 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 13:53:32,080 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 13:53:32,336 - INFO - Completed plotting for N=10
+2025-04-27 13:53:32,336 - INFO - Main program execution completed
+2025-04-27 14:22:15,425 - INFO - Starting main program execution
+2025-04-27 14:22:15,426 - INFO - Starting Fourier differentiation test for both methods
+2025-04-27 14:22:15,504 - INFO - odd method: k=2, minimum N=18, error=9.28e-04
+2025-04-27 14:22:15,563 - INFO - odd method: k=4, minimum N=30, error=9.60e-05
+2025-04-27 14:22:15,627 - INFO - odd method: k=6, minimum N=38, error=3.36e-04
+2025-04-27 14:22:15,703 - INFO - odd method: k=8, minimum N=46, error=9.33e-04
+2025-04-27 14:22:15,869 - INFO - odd method: k=10, minimum N=58, error=8.05e-05
+2025-04-27 14:22:15,990 - INFO - odd method: k=12, minimum N=66, error=2.02e-04
+2025-04-27 14:22:16,021 - INFO - even method: k=2, minimum N=18, error=3.41e-04
+2025-04-27 14:22:16,074 - INFO - even method: k=4, minimum N=28, error=3.00e-04
+2025-04-27 14:22:16,150 - INFO - even method: k=6, minimum N=38, error=1.79e-04
+2025-04-27 14:22:16,232 - INFO - even method: k=8, minimum N=46, error=5.51e-04
+2025-04-27 14:22:16,324 - INFO - even method: k=10, minimum N=56, error=2.68e-04
+2025-04-27 14:22:16,441 - INFO - even method: k=12, minimum N=64, error=7.23e-04
+2025-04-27 14:22:16,441 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 14:22:16,894 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 14:22:16,894 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 14:22:17,180 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 14:22:17,180 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 14:22:17,488 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 14:22:17,488 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 14:22:17,753 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 14:22:17,753 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 14:22:18,057 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 14:22:18,057 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 14:22:18,323 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 14:22:18,323 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 14:22:18,630 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 14:22:18,630 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 14:22:18,889 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 14:22:18,889 - INFO - Plotting PDE solutions for N=10
+2025-04-27 14:22:18,895 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:22:18,897 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:22:19,009 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:22:19,256 - INFO - Completed plotting for N=10
+2025-04-27 14:22:19,256 - INFO - Main program execution completed
+2025-04-27 14:23:30,752 - INFO - Starting main program execution
+2025-04-27 14:23:30,753 - INFO - Starting Fourier differentiation test for both methods
+2025-04-27 14:23:30,879 - INFO - odd method: k=2, minimum N=18, error=9.28e-04
+2025-04-27 14:23:30,930 - INFO - odd method: k=4, minimum N=30, error=9.60e-05
+2025-04-27 14:23:30,990 - INFO - odd method: k=6, minimum N=38, error=3.36e-04
+2025-04-27 14:23:31,067 - INFO - odd method: k=8, minimum N=46, error=9.33e-04
+2025-04-27 14:23:31,162 - INFO - odd method: k=10, minimum N=58, error=8.05e-05
+2025-04-27 14:23:31,271 - INFO - odd method: k=12, minimum N=66, error=2.02e-04
+2025-04-27 14:23:31,298 - INFO - even method: k=2, minimum N=18, error=3.41e-04
+2025-04-27 14:23:31,345 - INFO - even method: k=4, minimum N=28, error=3.00e-04
+2025-04-27 14:23:31,406 - INFO - even method: k=6, minimum N=38, error=1.79e-04
+2025-04-27 14:23:31,481 - INFO - even method: k=8, minimum N=46, error=5.51e-04
+2025-04-27 14:23:31,584 - INFO - even method: k=10, minimum N=56, error=2.68e-04
+2025-04-27 14:23:31,691 - INFO - even method: k=12, minimum N=64, error=7.23e-04
+2025-04-27 14:23:31,691 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 14:23:32,134 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 14:23:32,134 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 14:23:32,418 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 14:23:32,418 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 14:23:32,726 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 14:23:32,726 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 14:23:32,992 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 14:23:32,992 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 14:23:33,297 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 14:23:33,297 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 14:23:33,563 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 14:23:33,563 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 14:23:33,872 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 14:23:33,872 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 14:23:34,136 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 14:23:34,136 - INFO - Plotting PDE solutions for N=10
+2025-04-27 14:23:34,141 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:23:34,144 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:23:34,255 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:23:34,502 - INFO - Completed plotting for N=10
+2025-04-27 14:23:34,502 - INFO - Main program execution completed
+2025-04-27 14:48:50,007 - INFO - Starting main program execution
+2025-04-27 14:48:50,007 - INFO - Starting Fourier differentiation test for both methods
+2025-04-27 14:48:50,077 - INFO - odd method: k=2, minimum N=18, error=9.28e-04
+2025-04-27 14:48:50,133 - INFO - odd method: k=4, minimum N=30, error=9.60e-05
+2025-04-27 14:48:50,196 - INFO - odd method: k=6, minimum N=38, error=3.36e-04
+2025-04-27 14:48:50,269 - INFO - odd method: k=8, minimum N=46, error=9.33e-04
+2025-04-27 14:48:50,363 - INFO - odd method: k=10, minimum N=58, error=8.05e-05
+2025-04-27 14:48:50,470 - INFO - odd method: k=12, minimum N=66, error=2.02e-04
+2025-04-27 14:48:50,496 - INFO - even method: k=2, minimum N=18, error=3.41e-04
+2025-04-27 14:48:50,540 - INFO - even method: k=4, minimum N=28, error=3.00e-04
+2025-04-27 14:48:50,601 - INFO - even method: k=6, minimum N=38, error=1.79e-04
+2025-04-27 14:48:50,683 - INFO - even method: k=8, minimum N=46, error=5.51e-04
+2025-04-27 14:48:50,779 - INFO - even method: k=10, minimum N=56, error=2.68e-04
+2025-04-27 14:48:50,882 - INFO - even method: k=12, minimum N=64, error=7.23e-04
+2025-04-27 14:48:51,192 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 14:48:51,549 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 14:48:51,549 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 14:48:51,835 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 14:48:51,835 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 14:48:52,161 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 14:48:52,161 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 14:48:52,433 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 14:48:52,433 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 14:48:52,743 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 14:48:52,743 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 14:48:53,013 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 14:48:53,013 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 14:48:53,325 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 14:48:53,325 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 14:48:53,591 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 14:48:53,591 - INFO - Plotting PDE solutions for N=10
+2025-04-27 14:48:53,600 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:48:53,602 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:48:53,713 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:48:53,961 - INFO - Completed plotting for N=10
+2025-04-27 14:48:53,961 - INFO - Main program execution completed
+2025-04-27 14:49:45,168 - INFO - Starting main program execution
+2025-04-27 14:49:45,168 - INFO - Starting Fourier differentiation test for both methods
+2025-04-27 14:49:49,643 - WARNING - odd method: Failed to achieve tolerance for k=2 within N=1000
+2025-04-27 14:49:54,299 - WARNING - odd method: Failed to achieve tolerance for k=4 within N=1000
+2025-04-27 14:49:59,059 - WARNING - odd method: Failed to achieve tolerance for k=6 within N=1000
+2025-04-27 14:50:03,939 - WARNING - odd method: Failed to achieve tolerance for k=8 within N=1000
+2025-04-27 14:50:08,551 - WARNING - odd method: Failed to achieve tolerance for k=10 within N=1000
+2025-04-27 14:50:13,058 - WARNING - odd method: Failed to achieve tolerance for k=12 within N=1000
+2025-04-27 14:50:13,090 - INFO - even method: k=2, minimum N=18, error=3.41e-04
+2025-04-27 14:50:13,136 - INFO - even method: k=4, minimum N=28, error=3.00e-04
+2025-04-27 14:50:13,198 - INFO - even method: k=6, minimum N=38, error=1.79e-04
+2025-04-27 14:50:13,273 - INFO - even method: k=8, minimum N=46, error=5.51e-04
+2025-04-27 14:50:13,362 - INFO - even method: k=10, minimum N=56, error=2.68e-04
+2025-04-27 14:50:13,467 - INFO - even method: k=12, minimum N=64, error=7.23e-04
+2025-04-27 14:50:13,787 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 14:50:14,165 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 14:50:14,165 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 14:50:14,456 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 14:50:14,456 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 14:50:14,774 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 14:50:14,774 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 14:50:15,048 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 14:50:15,048 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 14:50:15,365 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 14:50:15,365 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 14:50:15,640 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 14:50:15,641 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 14:50:15,957 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 14:50:15,957 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 14:50:16,224 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 14:50:16,224 - INFO - Plotting PDE solutions for N=10
+2025-04-27 14:50:16,231 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:50:16,233 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:50:16,346 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:50:16,601 - INFO - Completed plotting for N=10
+2025-04-27 14:50:16,601 - INFO - Main program execution completed
+2025-04-27 14:52:11,512 - INFO - Starting main program execution
+2025-04-27 14:52:11,513 - INFO - Starting Fourier differentiation test for both methods
+2025-04-27 14:55:09,254 - INFO - Starting main program execution
+2025-04-27 14:55:09,263 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 14:55:09,717 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 14:55:09,717 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 14:55:10,008 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 14:55:10,008 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 14:55:10,324 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 14:55:10,324 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 14:55:10,600 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 14:55:10,600 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 14:55:10,910 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 14:55:10,911 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 14:55:11,177 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 14:55:11,177 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 14:55:11,486 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 14:55:11,486 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 14:55:11,746 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 14:55:11,746 - INFO - Plotting PDE solutions for N=10
+2025-04-27 14:55:11,751 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:55:11,754 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:55:11,864 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:55:12,109 - INFO - Completed plotting for N=10
+2025-04-27 14:55:12,109 - INFO - Main program execution completed
+2025-04-27 14:55:23,172 - INFO - Starting main program execution
+2025-04-27 14:55:23,177 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 14:55:23,606 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 14:55:23,606 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 14:55:23,897 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 14:55:23,897 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 14:55:24,207 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 14:55:24,207 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 14:55:24,472 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 14:55:24,472 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 14:55:24,775 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 14:55:24,775 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 14:55:25,040 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 14:55:25,040 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 14:55:25,347 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 14:55:25,347 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 14:55:25,606 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 14:55:25,606 - INFO - Plotting PDE solutions for N=10
+2025-04-27 14:55:25,611 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:55:25,614 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:55:25,724 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:55:25,969 - INFO - Completed plotting for N=10
+2025-04-27 14:55:25,969 - INFO - Main program execution completed
+2025-04-27 14:55:46,349 - INFO - Starting main program execution
+2025-04-27 14:55:46,354 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 14:55:46,790 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 14:55:46,790 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 14:55:47,085 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 14:55:47,085 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 14:55:47,394 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 14:55:47,394 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 14:55:47,664 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 14:55:47,664 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 14:55:47,975 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 14:55:47,975 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 14:55:48,247 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 14:55:48,247 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 14:55:48,560 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 14:55:48,560 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 14:55:48,824 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 14:55:48,825 - INFO - Plotting PDE solutions for N=10
+2025-04-27 14:55:48,833 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:55:48,835 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:55:48,945 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 14:55:49,195 - INFO - Completed plotting for N=10
+2025-04-27 14:55:49,195 - INFO - Main program execution completed
+2025-04-27 15:00:10,859 - INFO - Starting main program execution
+2025-04-27 15:00:10,865 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 15:00:11,336 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 15:00:11,337 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 15:00:11,623 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 15:00:11,623 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 15:00:11,929 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 15:00:11,929 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 15:00:12,194 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 15:00:12,194 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 15:00:12,496 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 15:00:12,496 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 15:00:12,760 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 15:00:12,760 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 15:00:13,066 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 15:00:13,066 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 15:00:13,323 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 15:00:13,323 - INFO - Plotting PDE solutions for N=10
+2025-04-27 15:00:13,329 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:00:13,331 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:00:13,442 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:00:13,689 - INFO - Completed plotting for N=10
+2025-04-27 15:00:13,689 - INFO - Main program execution completed
+2025-04-27 15:00:37,900 - INFO - Starting main program execution
+2025-04-27 15:00:37,905 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 15:00:38,361 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 15:00:38,361 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 15:00:38,650 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 15:00:38,650 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 15:00:38,956 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 15:00:38,956 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 15:00:39,222 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 15:00:39,222 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 15:00:39,528 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 15:00:39,528 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 15:00:39,794 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 15:00:39,795 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 15:00:40,102 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 15:00:40,102 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 15:00:40,360 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 15:00:40,360 - INFO - Plotting PDE solutions for N=10
+2025-04-27 15:00:40,366 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:00:40,368 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:00:40,479 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:00:40,727 - INFO - Completed plotting for N=10
+2025-04-27 15:00:40,727 - INFO - Main program execution completed
+2025-04-27 15:01:01,261 - INFO - Starting main program execution
+2025-04-27 15:01:27,266 - INFO - Starting main program execution
+2025-04-27 15:01:27,271 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 15:01:27,724 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 15:01:27,724 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 15:01:28,037 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 15:01:28,037 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 15:01:28,343 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 15:01:28,343 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 15:01:28,611 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 15:01:28,611 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 15:01:28,920 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 15:01:28,920 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 15:01:29,196 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 15:01:29,196 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 15:01:29,510 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 15:01:29,510 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 15:01:29,780 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 15:01:29,780 - INFO - Plotting PDE solutions for N=10
+2025-04-27 15:01:29,785 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:01:29,788 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:01:29,898 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:01:30,145 - INFO - Completed plotting for N=10
+2025-04-27 15:01:30,145 - INFO - Main program execution completed
+2025-04-27 15:32:58,686 - INFO - Starting main program execution
+2025-04-27 15:32:58,692 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 15:32:59,153 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 15:32:59,153 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 15:32:59,440 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 15:32:59,440 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 15:32:59,742 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 15:32:59,742 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 15:33:00,005 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 15:33:00,005 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 15:33:00,326 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 15:33:00,327 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 15:33:00,606 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 15:33:00,606 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 15:33:00,910 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 15:33:00,910 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 15:33:01,167 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 15:33:01,167 - INFO - Plotting PDE solutions for N=10
+2025-04-27 15:33:01,172 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:33:01,175 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:33:01,285 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:33:01,528 - INFO - Completed plotting for N=10
+2025-04-27 15:33:01,528 - INFO - Main program execution completed
+2025-04-27 15:38:35,905 - INFO - Starting main program execution
+2025-04-27 15:38:35,910 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 15:38:36,356 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 15:38:36,356 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 15:38:36,643 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 15:38:36,643 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 15:38:36,951 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 15:38:36,951 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 15:38:37,215 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 15:38:37,215 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 15:38:37,522 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 15:38:37,522 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 15:38:37,787 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 15:38:37,787 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 15:38:38,097 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 15:38:38,097 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 15:38:38,357 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 15:38:38,357 - INFO - Plotting PDE solutions for N=10
+2025-04-27 15:38:38,363 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:38:38,366 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:38:38,478 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:38:38,726 - INFO - Completed plotting for N=10
+2025-04-27 15:38:38,726 - INFO - Main program execution completed
+2025-04-27 15:39:22,539 - INFO - Starting main program execution
+2025-04-27 15:39:22,545 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 15:39:23,003 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 15:39:23,003 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 15:39:23,297 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 15:39:23,297 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 15:49:14,546 - INFO - Starting main program execution
+2025-04-27 15:49:14,551 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 15:49:14,987 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 15:49:14,987 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 15:49:15,271 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 15:49:15,271 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 15:49:15,585 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 15:49:15,585 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 15:49:15,850 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 15:49:15,850 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 15:49:16,152 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 15:49:16,152 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 15:49:16,416 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 15:49:16,416 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 15:49:16,722 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 15:49:16,722 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 15:49:16,980 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 15:49:16,980 - INFO - Plotting PDE solutions for N=10
+2025-04-27 15:49:16,985 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:49:16,988 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:49:17,099 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:49:17,346 - INFO - Completed plotting for N=10
+2025-04-27 15:49:17,347 - INFO - Main program execution completed
+2025-04-27 15:50:29,938 - INFO - Starting main program execution
+2025-04-27 15:50:30,302 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 15:50:30,660 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 15:50:30,660 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 15:50:30,945 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 15:50:30,945 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 15:50:31,260 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 15:50:31,260 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 15:50:31,527 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 15:50:31,527 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 15:50:31,828 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 15:50:31,828 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 15:50:32,092 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 15:50:32,092 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 15:50:32,399 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 15:50:32,399 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 15:50:32,659 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 15:50:32,659 - INFO - Plotting PDE solutions for N=10
+2025-04-27 15:50:32,665 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:50:32,667 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:50:32,778 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:50:33,027 - INFO - Completed plotting for N=10
+2025-04-27 15:50:33,027 - INFO - Main program execution completed
+2025-04-27 15:53:01,470 - INFO - Starting main program execution
+2025-04-27 15:53:01,725 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 15:53:02,103 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 15:53:02,103 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 15:53:02,391 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 15:53:02,391 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 15:53:02,695 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 15:53:02,695 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 15:53:02,977 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 15:53:02,977 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 15:53:03,277 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 15:53:03,277 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 15:53:03,543 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 15:53:03,543 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 15:53:03,849 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 15:53:03,849 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 15:53:04,109 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 15:53:04,109 - INFO - Plotting PDE solutions for N=10
+2025-04-27 15:53:04,117 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:53:04,120 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:53:04,234 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 15:53:04,490 - INFO - Completed plotting for N=10
+2025-04-27 15:53:04,490 - INFO - Main program execution completed
+2025-04-27 16:21:48,942 - INFO - Starting main program execution
+2025-04-27 16:21:49,210 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 16:21:49,571 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 16:21:49,571 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 16:21:49,870 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 16:21:49,870 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 16:21:50,189 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 16:21:50,189 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 16:21:50,465 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 16:21:50,465 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 16:21:50,779 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 16:21:50,779 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 16:21:51,054 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 16:21:51,054 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 16:21:51,370 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 16:21:51,370 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 16:21:51,635 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 16:21:51,635 - INFO - Plotting PDE solutions for N=10
+2025-04-27 16:21:51,640 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:21:51,643 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:21:51,754 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:21:52,001 - INFO - Completed plotting for N=10
+2025-04-27 16:21:52,001 - INFO - Main program execution completed
+2025-04-27 16:24:39,296 - INFO - Starting main program execution
+2025-04-27 16:24:39,559 - INFO - Main program execution completed
+2025-04-27 16:24:57,161 - INFO - Starting main program execution
+2025-04-27 16:24:57,417 - INFO - Main program execution completed
+2025-04-27 16:25:07,081 - INFO - Starting main program execution
+2025-04-27 16:25:07,324 - INFO - Main program execution completed
+2025-04-27 16:34:56,109 - INFO - Starting main program execution
+2025-04-27 16:34:56,367 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 16:34:56,714 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 16:34:56,714 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 16:34:57,000 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 16:34:57,000 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 16:34:57,308 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 16:34:57,308 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 16:34:57,577 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 16:34:57,577 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 16:34:57,882 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 16:34:57,882 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 16:34:58,150 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 16:34:58,150 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 16:34:58,464 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 16:34:58,464 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 16:34:58,728 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 16:34:58,728 - INFO - Plotting PDE solutions for N=10
+2025-04-27 16:34:58,733 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:34:58,736 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:34:58,849 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:34:59,104 - INFO - Completed plotting for N=10
+2025-04-27 16:34:59,104 - INFO - Main program execution completed
+2025-04-27 16:38:00,267 - INFO - Starting main program execution
+2025-04-27 16:38:00,541 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 16:38:00,911 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 16:38:00,911 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 16:38:01,201 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 16:38:01,201 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 16:38:01,511 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 16:38:01,512 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 16:38:01,781 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 16:38:01,781 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 16:38:02,096 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 16:38:02,096 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 16:38:02,374 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 16:38:02,374 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 16:38:02,695 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 16:38:02,695 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 16:38:02,970 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 16:38:02,970 - INFO - Plotting PDE solutions for N=10
+2025-04-27 16:38:02,976 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:38:02,978 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:38:03,092 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:38:03,343 - INFO - Completed plotting for N=10
+2025-04-27 16:38:03,343 - INFO - Main program execution completed
+2025-04-27 16:38:25,084 - INFO - Starting main program execution
+2025-04-27 16:38:25,344 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 16:38:25,712 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 16:38:25,712 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 16:38:26,000 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 16:38:26,001 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 16:38:26,312 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 16:38:26,312 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 16:38:26,580 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 16:38:26,580 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 16:38:26,887 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 16:38:26,887 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 16:38:27,156 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 16:38:27,156 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 16:38:27,468 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 16:38:27,468 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 16:38:27,735 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 16:38:27,735 - INFO - Plotting PDE solutions for N=10
+2025-04-27 16:38:27,740 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:38:27,743 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:38:27,857 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:38:28,109 - INFO - Completed plotting for N=10
+2025-04-27 16:38:28,109 - INFO - Main program execution completed
+2025-04-27 16:43:34,703 - INFO - Starting main program execution
+2025-04-27 16:43:34,972 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 16:43:35,339 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 16:43:35,339 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 16:43:35,636 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 16:43:35,636 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 16:43:35,947 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 16:43:35,947 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 16:43:36,219 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 16:43:36,219 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 16:43:36,527 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 16:43:36,527 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 16:43:36,794 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 16:43:36,794 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 16:43:37,102 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 16:43:37,102 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 16:43:37,363 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 16:43:37,363 - INFO - Plotting PDE solutions for N=10
+2025-04-27 16:43:37,368 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:43:37,371 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:43:37,483 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:43:37,732 - INFO - Completed plotting for N=10
+2025-04-27 16:43:37,732 - INFO - Main program execution completed
+2025-04-27 16:55:08,475 - INFO - Starting main program execution
+2025-04-27 16:55:08,744 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 16:55:09,117 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 16:55:09,117 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 16:55:09,441 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 16:55:09,441 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 16:55:09,756 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 16:55:09,757 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 16:55:10,071 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 16:55:10,071 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 16:55:10,379 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 16:55:10,379 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 16:55:10,679 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 16:55:10,679 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 16:55:10,988 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 16:55:10,989 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 16:55:11,290 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 16:55:11,290 - INFO - Plotting PDE solutions for N=10
+2025-04-27 16:55:11,300 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:55:11,302 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:55:11,413 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:55:11,661 - INFO - Completed plotting for N=10
+2025-04-27 16:55:11,661 - INFO - Main program execution completed
+2025-04-27 16:56:35,532 - INFO - Starting main program execution
+2025-04-27 16:56:35,797 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 16:56:36,175 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 16:56:36,175 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 16:56:36,505 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 16:56:36,505 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 16:56:36,815 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 16:56:36,815 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 16:56:37,125 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 16:56:37,126 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 16:56:37,435 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 16:56:37,435 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 16:56:37,733 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 16:56:37,733 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 16:56:38,043 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 16:56:38,043 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 16:56:38,355 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 16:56:38,355 - INFO - Plotting PDE solutions for N=10
+2025-04-27 16:56:38,361 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:56:38,363 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:56:38,477 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 16:56:38,734 - INFO - Completed plotting for N=10
+2025-04-27 16:56:38,734 - INFO - Main program execution completed
+2025-04-27 17:02:10,359 - INFO - Starting main program execution
+2025-04-27 17:02:10,616 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 17:02:10,978 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 17:02:31,001 - INFO - Starting main program execution
+2025-04-27 17:02:31,263 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 17:02:31,629 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 17:02:31,629 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 17:02:31,646 - ERROR - Error computing derivative for N=4: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 4 is different from 5)
+2025-04-27 17:02:31,646 - ERROR - Error computing derivative for N=8: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 8 is different from 9)
+2025-04-27 17:02:31,646 - ERROR - Error computing derivative for N=16: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 16 is different from 17)
+2025-04-27 17:02:31,646 - ERROR - Error computing derivative for N=32: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 32 is different from 33)
+2025-04-27 17:02:31,647 - ERROR - Error computing derivative for N=64: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 64 is different from 65)
+2025-04-27 17:02:52,803 - INFO - Starting main program execution
+2025-04-27 17:03:16,543 - INFO - Starting main program execution
+2025-04-27 17:03:16,544 - INFO - 
+Comparison of Odd and Even Methods:
+2025-04-27 17:03:16,826 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 17:03:17,187 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 17:03:17,187 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 17:03:51,611 - INFO - Starting main program execution
+2025-04-27 17:03:51,611 - INFO - 
+Comparison of Odd and Even Methods:
+2025-04-27 17:03:51,889 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 17:03:52,251 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 17:03:52,251 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 17:03:52,653 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 17:03:52,653 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 17:03:52,976 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 17:03:52,976 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 17:03:53,342 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 17:03:53,342 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 17:03:53,655 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 17:03:53,655 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 17:03:53,990 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 17:03:53,990 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 17:03:54,305 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 17:03:54,305 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 17:03:54,673 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 17:03:54,673 - INFO - Plotting PDE solutions for N=10
+2025-04-27 17:03:54,678 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 17:03:54,682 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 17:04:16,658 - INFO - Starting main program execution
+2025-04-27 17:04:16,658 - INFO - 
+Comparison of Odd and Even Methods:
+2025-04-27 17:04:16,944 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 17:04:17,321 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 17:04:17,321 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 17:04:17,711 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 17:04:17,711 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 17:04:18,029 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 17:04:18,029 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 17:04:18,411 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 17:04:18,411 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 17:04:18,728 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 17:04:18,728 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 17:04:19,060 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 17:04:19,060 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 17:04:19,377 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 17:04:19,377 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 17:04:19,746 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 17:04:19,746 - INFO - Plotting PDE solutions for N=10
+2025-04-27 17:04:19,751 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 17:04:19,755 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 17:04:19,867 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 17:04:20,129 - INFO - Completed plotting for N=10
+2025-04-27 17:04:20,129 - INFO - Main program execution completed
+2025-04-27 18:23:27,844 - INFO - Starting main program execution
+2025-04-27 18:23:27,844 - INFO - 
+Comparison of Odd and Even Methods:
+2025-04-27 18:23:46,146 - INFO - Starting main program execution
+2025-04-27 18:23:46,433 - INFO - 
+Computing derivative for f(x) = cos(10x)
+2025-04-27 18:24:19,747 - INFO - Starting main program execution
+2025-04-27 18:24:19,757 - INFO - 
+Computing derivative for f(x) = cos(10x)
+2025-04-27 18:24:45,175 - INFO - Starting main program execution
+2025-04-27 18:24:45,184 - INFO - 
+Computing derivative for f(x) = cos(10x)
+2025-04-27 18:25:18,196 - INFO - Starting main program execution
+2025-04-27 18:25:49,369 - INFO - Starting main program execution
+2025-04-27 18:25:49,378 - INFO - 
+Computing derivative for f(x) = cos(10x)
+2025-04-27 18:25:49,378 - INFO - N =    4, L2 error = 1.40e+00, L∞ error = 1.91e+00
+2025-04-27 18:25:49,379 - INFO - N =    8, L2 error = 8.32e+00, L∞ error = 1.26e+01
+2025-04-27 18:25:49,379 - INFO - N =   16, L2 error = 3.67e+00, L∞ error = 8.00e+00
+2025-04-27 18:25:49,379 - INFO - N =   32, L2 error = 1.39e+01, L∞ error = 2.17e+01
+2025-04-27 18:25:49,381 - INFO - N =   64, L2 error = 1.43e+01, L∞ error = 2.50e+01
+2025-04-27 18:25:49,390 - INFO - N =  128, L2 error = 1.47e+01, L∞ error = 2.92e+01
+2025-04-27 18:25:49,390 - INFO - 
+Computing derivative for f(x) = cos(x/2)
+2025-04-27 18:25:49,391 - INFO - N =    4, L2 error = 7.07e-01, L∞ error = 1.00e+00
+2025-04-27 18:25:49,391 - INFO - N =    8, L2 error = 7.07e-01, L∞ error = 1.00e+00
+2025-04-27 18:25:49,391 - INFO - N =   16, L2 error = 7.07e-01, L∞ error = 1.00e+00
+2025-04-27 18:25:49,391 - INFO - N =   32, L2 error = 7.07e-01, L∞ error = 1.00e+00
+2025-04-27 18:25:49,393 - INFO - N =   64, L2 error = 7.07e-01, L∞ error = 1.00e+00
+2025-04-27 18:25:49,401 - INFO - N =  128, L2 error = 7.07e-01, L∞ error = 1.00e+00
+2025-04-27 18:25:49,401 - INFO - 
+Computing derivative for f(x) = x
+2025-04-27 18:25:49,402 - INFO - N =    4, L2 error = 2.56e+00, L∞ error = 3.87e+00
+2025-04-27 18:25:49,402 - INFO - N =    8, L2 error = 3.49e+00, L∞ error = 6.60e+00
+2025-04-27 18:25:49,402 - INFO - N =   16, L2 error = 4.83e+00, L∞ error = 1.21e+01
+2025-04-27 18:25:49,402 - INFO - N =   32, L2 error = 6.75e+00, L∞ error = 2.32e+01
+2025-04-27 18:25:49,404 - INFO - N =   64, L2 error = 9.48e+00, L∞ error = 4.54e+01
+2025-04-27 18:25:49,412 - INFO - N =  128, L2 error = 1.34e+01, L∞ error = 8.97e+01
+2025-04-27 18:25:49,412 - INFO - Plotting PDE solutions for N=10
+2025-04-27 18:25:49,502 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:25:49,506 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:25:49,617 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:25:49,875 - INFO - Completed plotting for N=10
+2025-04-27 18:25:49,875 - INFO - Main program execution completed
+2025-04-27 18:26:29,426 - INFO - Starting main program execution
+2025-04-27 18:26:29,432 - INFO - 
+Computing derivative for f(x) = cos(10x)
+2025-04-27 18:26:29,432 - INFO - N =    4, L2 error = 1.40e+00, L∞ error = 1.91e+00
+2025-04-27 18:26:29,432 - INFO - N =    8, L2 error = 5.95e+00, L∞ error = 1.00e+01
+2025-04-27 18:26:29,432 - INFO - N =   16, L2 error = 1.09e+01, L∞ error = 1.67e+01
+2025-04-27 18:26:29,432 - INFO - N =   32, L2 error = 1.93e+00, L∞ error = 8.82e+00
+2025-04-27 18:26:29,432 - INFO - N =   64, L2 error = 2.86e+00, L∞ error = 1.47e+01
+2025-04-27 18:26:29,433 - INFO - N =  128, L2 error = 4.19e+00, L∞ error = 2.85e+01
+2025-04-27 18:26:29,433 - INFO - 
+Computing derivative for f(x) = cos(x/2)
+2025-04-27 18:26:29,433 - INFO - N =    4, L2 error = 1.24e-16, L∞ error = 1.91e-16
+2025-04-27 18:26:29,433 - INFO - N =    8, L2 error = 2.09e-16, L∞ error = 3.61e-16
+2025-04-27 18:26:29,433 - INFO - N =   16, L2 error = 1.52e-15, L∞ error = 4.32e-15
+2025-04-27 18:26:29,433 - INFO - N =   32, L2 error = 2.30e-15, L∞ error = 7.99e-15
+2025-04-27 18:26:29,433 - INFO - N =   64, L2 error = 5.93e-15, L∞ error = 2.58e-14
+2025-04-27 18:26:29,433 - INFO - N =  128, L2 error = 9.31e-15, L∞ error = 6.27e-14
+2025-04-27 18:26:29,433 - INFO - 
+Computing derivative for f(x) = x
+2025-04-27 18:26:29,433 - INFO - N =    4, L2 error = 1.75e+00, L∞ error = 2.44e+00
+2025-04-27 18:26:29,433 - INFO - N =    8, L2 error = 2.90e+00, L∞ error = 5.20e+00
+2025-04-27 18:26:29,433 - INFO - N =   16, L2 error = 4.41e+00, L∞ error = 1.07e+01
+2025-04-27 18:26:29,433 - INFO - N =   32, L2 error = 6.45e+00, L∞ error = 2.18e+01
+2025-04-27 18:26:29,433 - INFO - N =   64, L2 error = 9.27e+00, L∞ error = 4.40e+01
+2025-04-27 18:26:29,434 - INFO - N =  128, L2 error = 1.32e+01, L∞ error = 8.83e+01
+2025-04-27 18:26:29,434 - INFO - Plotting PDE solutions for N=10
+2025-04-27 18:26:29,519 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:26:29,523 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:26:29,632 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:26:29,884 - INFO - Completed plotting for N=10
+2025-04-27 18:26:29,884 - INFO - Main program execution completed
+2025-04-27 18:27:17,210 - INFO - Starting main program execution
+2025-04-27 18:27:17,215 - INFO - 
+Computing derivative for f(x) = cos(10x)
+2025-04-27 18:27:17,215 - INFO - N =    4, L2 error = 1.38e+10, L∞ error = 1.91e+10
+2025-04-27 18:27:17,215 - INFO - N =    8, L2 error = 9.80e+09, L∞ error = 1.83e+10
+2025-04-27 18:27:17,216 - INFO - N =   16, L2 error = 1.71e+10, L∞ error = 5.23e+10
+2025-04-27 18:27:17,216 - INFO - N =   32, L2 error = 2.10e+10, L∞ error = 8.69e+10
+2025-04-27 18:27:17,216 - INFO - N =   64, L2 error = 2.32e+11, L∞ error = 1.85e+12
+2025-04-27 18:27:17,216 - INFO - N =  128, L2 error = 7.64e+11, L∞ error = 8.64e+12
+2025-04-27 18:27:17,216 - INFO - 
+Computing derivative for f(x) = cos(x/2)
+2025-04-27 18:27:17,216 - INFO - N =    4, L2 error = 5.00e-01, L∞ error = 1.00e+00
+2025-04-27 18:27:17,216 - INFO - N =    8, L2 error = 7.91e-01, L∞ error = 1.00e+00
+2025-04-27 18:27:17,216 - INFO - N =   16, L2 error = 2.28e+00, L∞ error = 3.00e+00
+2025-04-27 18:27:17,216 - INFO - N =   32, L2 error = 5.50e+00, L∞ error = 7.00e+00
+2025-04-27 18:27:17,216 - INFO - N =   64, L2 error = 1.20e+01, L∞ error = 1.50e+01
+2025-04-27 18:27:17,217 - INFO - N =  128, L2 error = 2.51e+01, L∞ error = 3.10e+01
+2025-04-27 18:27:17,217 - INFO - 
+Computing derivative for f(x) = x
+2025-04-27 18:27:17,217 - INFO - N =    4, L2 error = 1.71e+00, L∞ error = 2.44e+00
+2025-04-27 18:27:17,217 - INFO - N =    8, L2 error = 5.69e+00, L∞ error = 1.02e+01
+2025-04-27 18:27:17,217 - INFO - N =   16, L2 error = 1.74e+01, L∞ error = 4.35e+01
+2025-04-27 18:27:17,217 - INFO - N =   32, L2 error = 5.14e+01, L∞ error = 1.77e+02
+2025-04-27 18:27:17,217 - INFO - N =   64, L2 error = 1.48e+02, L∞ error = 7.09e+02
+2025-04-27 18:27:17,217 - INFO - N =  128, L2 error = 4.23e+02, L∞ error = 2.84e+03
+2025-04-27 18:27:17,217 - INFO - Plotting PDE solutions for N=10
+2025-04-27 18:27:17,316 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:27:17,320 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:27:17,428 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:27:17,682 - INFO - Completed plotting for N=10
+2025-04-27 18:27:17,683 - INFO - Main program execution completed
+2025-04-27 18:27:48,445 - INFO - Starting main program execution
+2025-04-27 18:27:48,450 - INFO - 
+Computing derivative for f(x) = cos(10x)
+2025-04-27 18:27:48,453 - INFO - N =    4, L2 error = 1.40e+00, L∞ error = 1.91e+00
+2025-04-27 18:27:48,453 - INFO - N =    8, L2 error = 5.95e+00, L∞ error = 1.00e+01
+2025-04-27 18:27:48,453 - INFO - N =   16, L2 error = 1.09e+01, L∞ error = 1.67e+01
+2025-04-27 18:27:48,453 - INFO - N =   32, L2 error = 1.93e+00, L∞ error = 8.82e+00
+2025-04-27 18:27:48,453 - INFO - N =   64, L2 error = 2.86e+00, L∞ error = 1.47e+01
+2025-04-27 18:27:48,454 - INFO - N =  128, L2 error = 4.19e+00, L∞ error = 2.85e+01
+2025-04-27 18:27:48,454 - INFO - 
+Computing derivative for f(x) = cos(x/2)
+2025-04-27 18:27:48,454 - INFO - N =    4, L2 error = 7.47e-17, L∞ error = 1.11e-16
+2025-04-27 18:27:48,454 - INFO - N =    8, L2 error = 4.11e-16, L∞ error = 8.88e-16
+2025-04-27 18:27:48,454 - INFO - N =   16, L2 error = 1.76e-15, L∞ error = 5.11e-15
+2025-04-27 18:27:48,454 - INFO - N =   32, L2 error = 2.66e-15, L∞ error = 7.74e-15
+2025-04-27 18:27:48,454 - INFO - N =   64, L2 error = 6.61e-15, L∞ error = 2.84e-14
+2025-04-27 18:27:48,454 - INFO - N =  128, L2 error = 1.09e-14, L∞ error = 5.66e-14
+2025-04-27 18:27:48,454 - INFO - 
+Computing derivative for f(x) = x
+2025-04-27 18:27:48,454 - INFO - N =    4, L2 error = 1.75e+00, L∞ error = 2.44e+00
+2025-04-27 18:27:48,454 - INFO - N =    8, L2 error = 2.90e+00, L∞ error = 5.20e+00
+2025-04-27 18:27:48,454 - INFO - N =   16, L2 error = 4.41e+00, L∞ error = 1.07e+01
+2025-04-27 18:27:48,454 - INFO - N =   32, L2 error = 6.45e+00, L∞ error = 2.18e+01
+2025-04-27 18:27:48,455 - INFO - N =   64, L2 error = 9.27e+00, L∞ error = 4.40e+01
+2025-04-27 18:27:48,455 - INFO - N =  128, L2 error = 1.32e+01, L∞ error = 8.83e+01
+2025-04-27 18:27:48,455 - INFO - Plotting PDE solutions for N=10
+2025-04-27 18:27:48,533 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:27:48,537 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:27:48,647 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:27:48,902 - INFO - Completed plotting for N=10
+2025-04-27 18:27:48,902 - INFO - Main program execution completed
+2025-04-27 18:46:59,872 - INFO - Starting main program execution
+2025-04-27 18:46:59,877 - INFO - 
+Computing derivative for f(x) = cos(10x)
+2025-04-27 18:46:59,880 - INFO - N =    4, L2 error = 1.40e+00, L∞ error = 1.91e+00
+2025-04-27 18:46:59,880 - INFO - N =    8, L2 error = 5.95e+00, L∞ error = 1.00e+01
+2025-04-27 18:46:59,880 - INFO - N =   16, L2 error = 1.09e+01, L∞ error = 1.67e+01
+2025-04-27 18:46:59,880 - INFO - N =   32, L2 error = 1.93e+00, L∞ error = 8.82e+00
+2025-04-27 18:46:59,880 - INFO - N =   64, L2 error = 2.86e+00, L∞ error = 1.47e+01
+2025-04-27 18:46:59,880 - INFO - N =  128, L2 error = 4.19e+00, L∞ error = 2.85e+01
+2025-04-27 18:46:59,880 - INFO - 
+Computing derivative for f(x) = cos(x/2)
+2025-04-27 18:46:59,880 - INFO - N =    4, L2 error = 7.47e-17, L∞ error = 1.11e-16
+2025-04-27 18:46:59,880 - INFO - N =    8, L2 error = 4.11e-16, L∞ error = 8.88e-16
+2025-04-27 18:46:59,881 - INFO - N =   16, L2 error = 1.76e-15, L∞ error = 5.11e-15
+2025-04-27 18:46:59,881 - INFO - N =   32, L2 error = 2.66e-15, L∞ error = 7.74e-15
+2025-04-27 18:46:59,881 - INFO - N =   64, L2 error = 6.61e-15, L∞ error = 2.84e-14
+2025-04-27 18:46:59,881 - INFO - N =  128, L2 error = 1.09e-14, L∞ error = 5.66e-14
+2025-04-27 18:46:59,881 - INFO - 
+Computing derivative for f(x) = x
+2025-04-27 18:46:59,881 - INFO - N =    4, L2 error = 1.75e+00, L∞ error = 2.44e+00
+2025-04-27 18:46:59,881 - INFO - N =    8, L2 error = 2.90e+00, L∞ error = 5.20e+00
+2025-04-27 18:46:59,881 - INFO - N =   16, L2 error = 4.41e+00, L∞ error = 1.07e+01
+2025-04-27 18:46:59,881 - INFO - N =   32, L2 error = 6.45e+00, L∞ error = 2.18e+01
+2025-04-27 18:46:59,881 - INFO - N =   64, L2 error = 9.27e+00, L∞ error = 4.40e+01
+2025-04-27 18:46:59,881 - INFO - N =  128, L2 error = 1.32e+01, L∞ error = 8.83e+01
+2025-04-27 18:46:59,881 - INFO - Plotting PDE solutions for N=10
+2025-04-27 18:46:59,962 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:46:59,967 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:47:00,089 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:47:00,363 - INFO - Completed plotting for N=10
+2025-04-27 18:47:00,363 - INFO - Main program execution completed
+2025-04-27 18:48:39,130 - INFO - Starting main program execution
+2025-04-27 18:48:39,135 - INFO - 
+Computing derivative for f(x) = cos(10x)
+2025-04-27 18:48:39,246 - INFO - N =    4, L2 error = 1.40e+00, L∞ error = 1.91e+00
+2025-04-27 18:48:39,252 - INFO - N =    8, L2 error = 5.95e+00, L∞ error = 1.00e+01
+2025-04-27 18:48:39,258 - INFO - N =   16, L2 error = 1.09e+01, L∞ error = 1.67e+01
+2025-04-27 18:48:39,263 - INFO - N =   32, L2 error = 1.93e+00, L∞ error = 8.82e+00
+2025-04-27 18:48:39,269 - INFO - N =   64, L2 error = 2.86e+00, L∞ error = 1.47e+01
+2025-04-27 18:48:39,274 - INFO - N =  128, L2 error = 4.19e+00, L∞ error = 2.85e+01
+2025-04-27 18:48:39,653 - INFO - 
+Computing derivative for f(x) = cos(x/2)
+2025-04-27 18:48:39,675 - INFO - N =    4, L2 error = 7.47e-17, L∞ error = 1.11e-16
+2025-04-27 18:48:39,680 - INFO - N =    8, L2 error = 4.11e-16, L∞ error = 8.88e-16
+2025-04-27 18:48:39,685 - INFO - N =   16, L2 error = 1.76e-15, L∞ error = 5.11e-15
+2025-04-27 18:48:39,690 - INFO - N =   32, L2 error = 2.66e-15, L∞ error = 7.74e-15
+2025-04-27 18:48:39,695 - INFO - N =   64, L2 error = 6.61e-15, L∞ error = 2.84e-14
+2025-04-27 18:48:39,699 - INFO - N =  128, L2 error = 1.09e-14, L∞ error = 5.66e-14
+2025-04-27 18:48:40,025 - INFO - 
+Computing derivative for f(x) = x
+2025-04-27 18:48:40,047 - INFO - N =    4, L2 error = 1.75e+00, L∞ error = 2.44e+00
+2025-04-27 18:48:40,052 - INFO - N =    8, L2 error = 2.90e+00, L∞ error = 5.20e+00
+2025-04-27 18:48:40,058 - INFO - N =   16, L2 error = 4.41e+00, L∞ error = 1.07e+01
+2025-04-27 18:48:40,062 - INFO - N =   32, L2 error = 6.45e+00, L∞ error = 2.18e+01
+2025-04-27 18:48:40,067 - INFO - N =   64, L2 error = 9.27e+00, L∞ error = 4.40e+01
+2025-04-27 18:48:40,071 - INFO - N =  128, L2 error = 1.32e+01, L∞ error = 8.83e+01
+2025-04-27 18:48:40,377 - INFO - Plotting PDE solutions for N=10
+2025-04-27 18:48:40,382 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:48:40,385 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:48:40,497 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:48:40,747 - INFO - Completed plotting for N=10
+2025-04-27 18:48:40,747 - INFO - Main program execution completed
+2025-04-27 18:55:39,462 - INFO - Starting main program execution
+2025-04-27 18:55:39,463 - INFO - 
+Comparison of Odd and Even Methods:
+2025-04-27 18:55:39,761 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 18:55:40,126 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(10x)
+2025-04-27 18:55:40,126 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 18:55:40,299 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 18:55:40,299 - INFO - Starting interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 18:55:40,634 - INFO - Completed interpolation computation for Interpolation for f(x)=cos(x_2)
+2025-04-27 18:55:40,634 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 18:55:40,779 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 18:55:40,779 - INFO - Starting interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 18:55:41,090 - INFO - Completed interpolation computation for Interpolation for f(x)=sin(x_2)
+2025-04-27 18:55:41,090 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 18:55:41,233 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 18:55:41,233 - INFO - Starting interpolation computation for Interpolation for f(x)=x
+2025-04-27 18:55:41,545 - INFO - Completed interpolation computation for Interpolation for f(x)=x
+2025-04-27 18:55:41,545 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 18:55:41,682 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 18:55:41,682 - INFO - Plotting PDE solutions for N=10
+2025-04-27 18:55:41,687 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:55:41,690 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:55:41,801 - INFO - Solving hyperbolic PDE with N=10, method=fourier
+2025-04-27 18:55:42,048 - INFO - Completed plotting for N=10
+2025-04-27 18:55:42,048 - INFO - Main program execution completed
+2025-04-27 18:57:34,456 - INFO - Starting main program execution
+2025-04-27 18:57:34,456 - INFO - 
+Comparison of Odd and Even Methods:
+2025-04-27 18:57:34,484 - INFO - Starting Fourier differentiation test for both methods
+2025-04-27 18:57:58,901 - INFO - Starting main program execution
+2025-04-27 18:57:58,901 - INFO - 
+Comparison of Odd and Even Methods:
+2025-04-27 18:57:58,929 - INFO - Starting Fourier differentiation test for both methods
+2025-04-27 18:57:59,009 - INFO - odd method: k=2, minimum N=18, error=9.28e-04
+2025-04-27 18:57:59,057 - INFO - odd method: k=4, minimum N=30, error=9.60e-05
+2025-04-27 18:57:59,123 - INFO - odd method: k=6, minimum N=38, error=3.36e-04
+2025-04-27 18:57:59,208 - INFO - odd method: k=8, minimum N=46, error=9.33e-04
+2025-04-27 18:57:59,320 - INFO - odd method: k=10, minimum N=58, error=8.05e-05
+2025-04-27 18:57:59,448 - INFO - odd method: k=12, minimum N=66, error=2.02e-04
+2025-04-27 18:59:26,962 - WARNING - even method: Failed to achieve tolerance for k=2 within N=1000
+2025-04-27 19:00:56,731 - WARNING - even method: Failed to achieve tolerance for k=4 within N=1000
+2025-04-27 19:02:26,753 - WARNING - even method: Failed to achieve tolerance for k=6 within N=1000
+2025-04-27 19:03:57,867 - WARNING - even method: Failed to achieve tolerance for k=8 within N=1000
+2025-04-27 19:05:29,245 - WARNING - even method: Failed to achieve tolerance for k=10 within N=1000
+2025-04-27 19:07:00,196 - WARNING - even method: Failed to achieve tolerance for k=12 within N=1000
+2025-04-27 19:07:00,198 - INFO - Main program execution completed
+2025-04-27 19:12:13,468 - INFO - Starting main program execution
+2025-04-27 19:12:13,468 - INFO - 
+Comparison of Odd and Even Methods:
+2025-04-27 19:12:13,495 - INFO - Starting Fourier differentiation test for both methods
+2025-04-27 19:12:13,572 - INFO - odd method: k=2, minimum N=18, error=9.28e-04
+2025-04-27 19:12:13,617 - INFO - odd method: k=4, minimum N=30, error=9.60e-05
+2025-04-27 19:12:13,676 - INFO - odd method: k=6, minimum N=38, error=3.36e-04
+2025-04-27 19:12:13,750 - INFO - odd method: k=8, minimum N=46, error=9.33e-04
+2025-04-27 19:12:13,850 - INFO - odd method: k=10, minimum N=58, error=8.05e-05
+2025-04-27 19:12:13,968 - INFO - odd method: k=12, minimum N=66, error=2.02e-04
+2025-04-27 20:16:30,259 - WARNING - even method: Failed to achieve tolerance for k=2 within N=1000
+2025-04-27 20:20:29,663 - INFO - Starting main program execution
+2025-04-27 20:20:29,663 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:20:30,088 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:20:30,088 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:20:30,359 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:20:30,360 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:20:30,625 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:20:30,625 - INFO - Main program execution completed
+2025-04-27 20:21:19,123 - INFO - Starting main program execution
+2025-04-27 20:21:19,371 - INFO - Main program execution completed
+2025-04-27 20:21:21,069 - INFO - Starting main program execution
+2025-04-27 20:21:21,069 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:21:21,442 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:21:21,442 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:21:21,716 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:21:21,716 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:21:21,982 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:21:21,983 - INFO - Main program execution completed
+2025-04-27 20:30:40,910 - INFO - Starting main program execution
+2025-04-27 20:30:40,911 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:30:41,019 - ERROR - Error computing derivative for N=4: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 4 is different from 5)
+2025-04-27 20:30:41,019 - ERROR - Error computing derivative for N=8: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 8 is different from 9)
+2025-04-27 20:30:41,019 - ERROR - Error computing derivative for N=16: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 16 is different from 17)
+2025-04-27 20:30:41,019 - ERROR - Error computing derivative for N=32: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 32 is different from 33)
+2025-04-27 20:30:41,019 - ERROR - Error computing derivative for N=64: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 64 is different from 65)
+2025-04-27 20:30:41,218 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:30:41,218 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:30:41,229 - ERROR - Error computing derivative for N=4: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 4 is different from 5)
+2025-04-27 20:30:41,229 - ERROR - Error computing derivative for N=8: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 8 is different from 9)
+2025-04-27 20:30:41,229 - ERROR - Error computing derivative for N=16: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 16 is different from 17)
+2025-04-27 20:30:41,229 - ERROR - Error computing derivative for N=32: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 32 is different from 33)
+2025-04-27 20:30:41,229 - ERROR - Error computing derivative for N=64: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 64 is different from 65)
+2025-04-27 20:30:41,371 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:30:41,371 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:30:41,380 - ERROR - Error computing derivative for N=4: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 4 is different from 5)
+2025-04-27 20:30:41,380 - ERROR - Error computing derivative for N=8: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 8 is different from 9)
+2025-04-27 20:30:41,380 - ERROR - Error computing derivative for N=16: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 16 is different from 17)
+2025-04-27 20:30:41,381 - ERROR - Error computing derivative for N=32: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 32 is different from 33)
+2025-04-27 20:30:41,381 - ERROR - Error computing derivative for N=64: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 64 is different from 65)
+2025-04-27 20:30:41,511 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:30:41,512 - INFO - Main program execution completed
+2025-04-27 20:31:10,959 - INFO - Starting main program execution
+2025-04-27 20:31:10,959 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:31:11,291 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:31:11,291 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:31:11,503 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:31:11,503 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:31:11,693 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:31:11,693 - INFO - Main program execution completed
+2025-04-27 20:51:17,993 - INFO - Starting main program execution
+2025-04-27 20:51:17,993 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:51:18,092 - ERROR - Error computing derivative for N=4: Integers to negative integer powers are not allowed.
+2025-04-27 20:51:18,092 - ERROR - Error computing derivative for N=8: Integers to negative integer powers are not allowed.
+2025-04-27 20:51:18,092 - ERROR - Error computing derivative for N=16: Integers to negative integer powers are not allowed.
+2025-04-27 20:51:18,092 - ERROR - Error computing derivative for N=32: Integers to negative integer powers are not allowed.
+2025-04-27 20:51:18,092 - ERROR - Error computing derivative for N=64: Integers to negative integer powers are not allowed.
+2025-04-27 20:51:18,255 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:51:18,255 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:51:18,266 - ERROR - Error computing derivative for N=4: Integers to negative integer powers are not allowed.
+2025-04-27 20:51:18,266 - ERROR - Error computing derivative for N=8: Integers to negative integer powers are not allowed.
+2025-04-27 20:51:18,266 - ERROR - Error computing derivative for N=16: Integers to negative integer powers are not allowed.
+2025-04-27 20:51:18,266 - ERROR - Error computing derivative for N=32: Integers to negative integer powers are not allowed.
+2025-04-27 20:51:18,266 - ERROR - Error computing derivative for N=64: Integers to negative integer powers are not allowed.
+2025-04-27 20:51:18,398 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:51:18,398 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:51:18,409 - ERROR - Error computing derivative for N=4: Integers to negative integer powers are not allowed.
+2025-04-27 20:51:18,409 - ERROR - Error computing derivative for N=8: Integers to negative integer powers are not allowed.
+2025-04-27 20:51:18,409 - ERROR - Error computing derivative for N=16: Integers to negative integer powers are not allowed.
+2025-04-27 20:51:18,409 - ERROR - Error computing derivative for N=32: Integers to negative integer powers are not allowed.
+2025-04-27 20:51:18,409 - ERROR - Error computing derivative for N=64: Integers to negative integer powers are not allowed.
+2025-04-27 20:51:18,527 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:51:18,527 - INFO - Main program execution completed
+2025-04-27 20:51:40,989 - INFO - Starting main program execution
+2025-04-27 20:51:40,990 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:51:41,320 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:51:41,320 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:51:41,506 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:51:41,506 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:51:41,706 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:51:41,706 - INFO - Main program execution completed
+2025-04-27 20:52:21,605 - INFO - Starting main program execution
+2025-04-27 20:52:21,605 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:52:21,708 - ERROR - Error computing derivative for N=4: Integers to negative integer powers are not allowed.
+2025-04-27 20:52:21,708 - ERROR - Error computing derivative for N=8: Integers to negative integer powers are not allowed.
+2025-04-27 20:52:21,708 - ERROR - Error computing derivative for N=16: Integers to negative integer powers are not allowed.
+2025-04-27 20:52:21,708 - ERROR - Error computing derivative for N=32: Integers to negative integer powers are not allowed.
+2025-04-27 20:52:21,708 - ERROR - Error computing derivative for N=64: Integers to negative integer powers are not allowed.
+2025-04-27 20:52:21,881 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:52:21,881 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:52:21,893 - ERROR - Error computing derivative for N=4: Integers to negative integer powers are not allowed.
+2025-04-27 20:52:21,893 - ERROR - Error computing derivative for N=8: Integers to negative integer powers are not allowed.
+2025-04-27 20:52:21,893 - ERROR - Error computing derivative for N=16: Integers to negative integer powers are not allowed.
+2025-04-27 20:52:21,893 - ERROR - Error computing derivative for N=32: Integers to negative integer powers are not allowed.
+2025-04-27 20:52:21,893 - ERROR - Error computing derivative for N=64: Integers to negative integer powers are not allowed.
+2025-04-27 20:52:22,028 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:52:22,028 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:52:22,037 - ERROR - Error computing derivative for N=4: Integers to negative integer powers are not allowed.
+2025-04-27 20:52:22,037 - ERROR - Error computing derivative for N=8: Integers to negative integer powers are not allowed.
+2025-04-27 20:52:22,037 - ERROR - Error computing derivative for N=16: Integers to negative integer powers are not allowed.
+2025-04-27 20:52:22,037 - ERROR - Error computing derivative for N=32: Integers to negative integer powers are not allowed.
+2025-04-27 20:52:22,037 - ERROR - Error computing derivative for N=64: Integers to negative integer powers are not allowed.
+2025-04-27 20:52:22,157 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:52:22,157 - INFO - Main program execution completed
+2025-04-27 20:52:45,898 - INFO - Starting main program execution
+2025-04-27 20:52:45,899 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:52:46,219 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:52:46,219 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:52:46,399 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:52:46,400 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:52:46,592 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:52:46,592 - INFO - Main program execution completed
+2025-04-27 20:53:10,274 - INFO - Starting main program execution
+2025-04-27 20:53:10,274 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:53:10,616 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:53:10,616 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:53:10,802 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:53:10,802 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:53:11,007 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:53:11,007 - INFO - Main program execution completed
+2025-04-27 20:53:48,600 - INFO - Starting main program execution
+2025-04-27 20:53:48,600 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:53:48,967 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:53:48,967 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:53:49,179 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:53:49,179 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:53:49,381 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:53:49,381 - INFO - Main program execution completed
+2025-04-27 20:54:29,532 - INFO - Starting main program execution
+2025-04-27 20:54:29,532 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:54:29,633 - ERROR - Error computing derivative for N=4: Integers to negative integer powers are not allowed.
+2025-04-27 20:54:29,633 - ERROR - Error computing derivative for N=8: Integers to negative integer powers are not allowed.
+2025-04-27 20:54:29,633 - ERROR - Error computing derivative for N=16: Integers to negative integer powers are not allowed.
+2025-04-27 20:54:29,633 - ERROR - Error computing derivative for N=32: Integers to negative integer powers are not allowed.
+2025-04-27 20:54:29,633 - ERROR - Error computing derivative for N=64: Integers to negative integer powers are not allowed.
+2025-04-27 20:54:29,800 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:54:29,800 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:54:29,812 - ERROR - Error computing derivative for N=4: Integers to negative integer powers are not allowed.
+2025-04-27 20:54:29,812 - ERROR - Error computing derivative for N=8: Integers to negative integer powers are not allowed.
+2025-04-27 20:54:29,812 - ERROR - Error computing derivative for N=16: Integers to negative integer powers are not allowed.
+2025-04-27 20:54:29,812 - ERROR - Error computing derivative for N=32: Integers to negative integer powers are not allowed.
+2025-04-27 20:54:29,812 - ERROR - Error computing derivative for N=64: Integers to negative integer powers are not allowed.
+2025-04-27 20:54:29,949 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:54:29,949 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:54:29,959 - ERROR - Error computing derivative for N=4: Integers to negative integer powers are not allowed.
+2025-04-27 20:54:29,959 - ERROR - Error computing derivative for N=8: Integers to negative integer powers are not allowed.
+2025-04-27 20:54:29,959 - ERROR - Error computing derivative for N=16: Integers to negative integer powers are not allowed.
+2025-04-27 20:54:29,959 - ERROR - Error computing derivative for N=32: Integers to negative integer powers are not allowed.
+2025-04-27 20:54:29,959 - ERROR - Error computing derivative for N=64: Integers to negative integer powers are not allowed.
+2025-04-27 20:54:30,078 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:54:30,078 - INFO - Main program execution completed
+2025-04-27 20:54:55,253 - INFO - Starting main program execution
+2025-04-27 20:54:55,253 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:54:55,567 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:54:55,567 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:54:55,755 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:54:55,755 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:54:55,959 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:54:55,959 - INFO - Main program execution completed
+2025-04-27 20:55:16,232 - INFO - Starting main program execution
+2025-04-27 20:55:16,232 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:55:16,577 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:55:16,577 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:55:16,775 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:55:16,775 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:55:16,976 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:55:16,976 - INFO - Main program execution completed
+2025-04-27 20:55:31,972 - INFO - Starting main program execution
+2025-04-27 20:55:31,972 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:55:32,276 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:55:32,276 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:55:32,456 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:55:32,456 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:55:32,649 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:55:32,649 - INFO - Main program execution completed
+2025-04-27 20:56:33,554 - INFO - Starting main program execution
+2025-04-27 20:56:33,555 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:56:33,787 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:56:33,787 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:56:33,887 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:56:33,887 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:56:33,989 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:56:33,989 - INFO - Main program execution completed
+2025-04-27 20:57:02,516 - INFO - Starting main program execution
+2025-04-27 20:57:02,516 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:57:02,734 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:57:02,734 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:57:02,835 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:57:02,835 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:57:02,934 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:57:02,934 - INFO - Main program execution completed
+2025-04-27 20:57:27,400 - INFO - Starting main program execution
+2025-04-27 20:57:27,401 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:57:27,621 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:57:27,621 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:57:27,723 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:57:27,723 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:57:27,822 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:57:27,822 - INFO - Main program execution completed
+2025-04-27 20:57:56,681 - INFO - Starting main program execution
+2025-04-27 20:57:56,681 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:57:56,888 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:57:56,888 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:57:56,988 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:57:56,988 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:57:57,090 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:57:57,090 - INFO - Main program execution completed
+2025-04-27 20:58:27,525 - INFO - Starting main program execution
+2025-04-27 20:58:27,525 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:58:27,743 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:58:27,743 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:58:27,852 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:58:27,852 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:58:27,957 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:58:27,957 - INFO - Main program execution completed
+2025-04-27 20:58:59,480 - INFO - Starting main program execution
+2025-04-27 20:58:59,480 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:58:59,686 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:58:59,686 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:58:59,787 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:58:59,787 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:58:59,880 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:58:59,880 - INFO - Main program execution completed
+2025-04-27 20:59:33,192 - INFO - Starting main program execution
+2025-04-27 20:59:33,192 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:59:33,393 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:59:33,393 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:59:33,495 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:59:33,495 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:59:33,590 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:59:33,590 - INFO - Main program execution completed
+2025-04-27 20:59:59,009 - INFO - Starting main program execution
+2025-04-27 20:59:59,009 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:59:59,217 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 20:59:59,217 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:59:59,313 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 20:59:59,314 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 20:59:59,408 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 20:59:59,408 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:59:59,500 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 20:59:59,500 - INFO - Main program execution completed
+2025-04-27 21:05:12,081 - INFO - Starting main program execution
+2025-04-27 21:05:12,081 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:05:12,336 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:05:12,336 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 21:05:12,459 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 21:05:12,459 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 21:05:12,573 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 21:05:12,573 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:05:12,688 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:05:12,689 - INFO - Main program execution completed
+2025-04-27 21:15:30,910 - INFO - Starting main program execution
+2025-04-27 21:15:30,910 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:15:31,235 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:15:31,235 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 21:15:31,438 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 21:15:31,438 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 21:15:31,619 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 21:15:31,619 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:15:31,806 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:15:31,806 - INFO - Main program execution completed
+2025-04-27 21:19:23,762 - INFO - Starting main program execution
+2025-04-27 21:19:23,763 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:19:24,093 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:19:24,093 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 21:19:24,287 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 21:19:24,287 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:19:24,469 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:19:24,469 - INFO - Main program execution completed
+2025-04-27 21:27:44,229 - INFO - Starting main program execution
+2025-04-27 21:27:44,229 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:27:44,735 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:27:44,735 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 21:27:45,131 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 21:27:45,131 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:27:45,536 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:27:45,536 - INFO - Main program execution completed
+2025-04-27 21:29:34,031 - INFO - Starting main program execution
+2025-04-27 21:29:34,032 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:29:34,557 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:29:34,557 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 21:29:34,965 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 21:29:34,965 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:29:35,381 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:29:35,381 - INFO - Main program execution completed
+2025-04-27 21:34:53,660 - INFO - Starting main program execution
+2025-04-27 21:34:53,660 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:34:54,228 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:34:54,229 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 21:34:54,606 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 21:34:54,606 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:34:55,018 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:34:55,018 - INFO - Main program execution completed
+2025-04-27 21:35:29,896 - INFO - Starting main program execution
+2025-04-27 21:35:29,896 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:35:30,419 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:35:30,419 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 21:35:30,788 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 21:35:30,788 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:35:31,189 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:35:31,189 - INFO - Main program execution completed
+2025-04-27 21:36:15,797 - INFO - Starting main program execution
+2025-04-27 21:36:15,797 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:36:16,316 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:36:16,316 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 21:36:16,678 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 21:36:16,678 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:36:17,006 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:36:17,007 - INFO - Main program execution completed
+2025-04-27 21:38:58,340 - INFO - Starting main program execution
+2025-04-27 21:38:58,340 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:38:58,869 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:38:58,869 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 21:38:59,257 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 21:38:59,257 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:38:59,654 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:38:59,655 - INFO - Main program execution completed
+2025-04-27 21:40:54,819 - INFO - Starting main program execution
+2025-04-27 21:40:54,819 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:40:55,336 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:40:55,336 - INFO - Starting derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 21:40:55,727 - INFO - Completed derivative computation for Derivative Error for f(x)=sin(x_2)
+2025-04-27 21:40:55,727 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:40:56,135 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:40:56,136 - INFO - Main program execution completed
+2025-04-27 21:56:15,799 - INFO - Starting main program execution
+2025-04-27 21:56:15,799 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:56:16,330 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(10x)
+2025-04-27 21:56:16,330 - INFO - Starting derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 21:56:16,727 - INFO - Completed derivative computation for Derivative Error for f(x)=cos(x_2)
+2025-04-27 21:56:16,727 - INFO - Starting derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:56:17,135 - INFO - Completed derivative computation for Derivative Error for f(x)=x
+2025-04-27 21:56:17,135 - INFO - Main program execution completed
+2025-04-27 22:04:15,286 - INFO - Starting main program execution
+2025-04-27 22:04:16,700 - INFO - Main program execution completed

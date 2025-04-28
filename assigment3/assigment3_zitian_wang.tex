@@ -1,0 +1,213 @@
+\documentclass[11pt]{article}
+\usepackage{amsmath, amssymb, amsthm, bm}
+\usepackage[a4paper, margin=1in]{geometry}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{tcolorbox}
+
+\title{Discretization Methods\\Spring Semester 2025\\Prof. Igor Pivkin\\[1ex]Exercise Sheet 3}
+\date{Date of submission: 28.04.2025}
+\author{Zitian Wang}
+
+\begin{document}
+\maketitle
+
+% =============================
+
+% ========== Exercise 1 ==========
+
+\section*{Exercise 1: Fourier--Galerkin for Variable Coefficient}
+Consider the variable coefficient problem
+\begin{equation}
+\frac{\partial u}{\partial t} + \sin(x) \frac{\partial u}{\partial x} = 0,
+\end{equation}
+subject to periodic boundary conditions.
+
+\subsection*{Fourier--Galerkin Approximation}
+We seek an approximate solution in the form:
+\begin{equation}
+    u_N(x, t) = \sum_{k=-N}^N \hat{u}_k(t) e^{ikx}
+\end{equation}
+The Galerkin method requires:
+\begin{equation}
+    \left\langle \frac{\partial u_N}{\partial t} + \sin(x) \frac{\partial u_N}{\partial x}, e^{i m x} \right\rangle = 0, \quad \forall m = -N,\ldots,N
+\end{equation}
+where $\langle f, g \rangle = \int_0^{2\pi} f(x) \overline{g(x)} dx$.
+
+Expanding the terms:
+\begin{align*}
+    \frac{\partial u_N}{\partial t} &= \sum_{k=-N}^N \frac{d\hat{u}_k}{dt} e^{ikx} \\
+    \frac{\partial u_N}{\partial x} &= \sum_{k=-N}^N i k \hat{u}_k e^{ikx}
+\end{align*}
+
+The variable coefficient $\sin(x)$ can be written as:
+\begin{equation}
+    \sin(x) = \frac{1}{2i}(e^{ix} - e^{-ix})
+\end{equation}
+
+So
+\begin{align*}
+    \sin(x) \frac{\partial u_N}{\partial x} &= \sum_{k=-N}^N i k \hat{u}_k \cdot \frac{1}{2i}(e^{i(k+1)x} - e^{i(k-1)x}) \\
+    &= \sum_{k=-N}^N \frac{k \hat{u}_k}{2} (e^{i(k+1)x} - e^{i(k-1)x})
+\end{align*}
+
+Projecting onto $e^{imx}$ and using orthogonality:
+\begin{align*}
+    \left\langle \sin(x) \frac{\partial u_N}{\partial x}, e^{imx} \right\rangle &= \int_0^{2\pi} \sum_{k=-N}^N \frac{k \hat{u}_k}{2} (e^{i(k+1)x} - e^{i(k-1)x}) \overline{e^{imx}} dx \\
+    &= \pi \left[ (m-1) \hat{u}_{m-1} - (m+1) \hat{u}_{m+1} \right]
+\end{align*}
+
+Thus, the Galerkin system is:
+\begin{equation}
+    \frac{d\hat{u}_m}{dt} + \frac{1}{2} \left[ (m-1) \hat{u}_{m-1} - (m+1) \hat{u}_{m+1} \right] = 0, \quad m = -N,\ldots,N
+\end{equation}
+
+\subsection*{Is $P_N u = u_N$?}
+No, in general $P_N u \neq u_N$ for variable coefficient problems. $P_N u$ is the $L^2$ projection of the true solution onto the Fourier space, while $u_N$ is the Galerkin approximation, which only coincides with $P_N u$ for constant coefficient problems.
+
+% ========== Exercise 2 ==========
+
+\section*{Exercise 2: Fourier--Galerkin with Dirichlet BCs}
+Consider
+\begin{equation}
+\frac{\partial u}{\partial t} + \sin(x) \frac{\partial u}{\partial x} = 0,
+\end{equation}
+with homogeneous Dirichlet boundary conditions:
+\begin{equation}
+ u(0,t) = u(\pi,t) = 0.
+\end{equation}
+
+\subsection*{Sine Basis Expansion}
+We expand $u$ in a sine series:
+\begin{equation}
+    u_N(x, t) = \sum_{k=1}^N \hat{u}_k(t) \sin(kx)
+\end{equation}
+
+The Galerkin condition:
+\begin{equation}
+    \left\langle \frac{\partial u_N}{\partial t} + \sin(x) \frac{\partial u_N}{\partial x}, \sin(m x) \right\rangle = 0, \quad m=1,\ldots,N
+\end{equation}
+
+Compute the terms:
+\begin{align*}
+    \frac{\partial u_N}{\partial t} &= \sum_{k=1}^N \frac{d\hat{u}_k}{dt} \sin(kx) \\
+    \frac{\partial u_N}{\partial x} &= \sum_{k=1}^N k \hat{u}_k \cos(kx)
+\end{align*}
+
+Expand $\sin(x) \cos(kx)$:
+\begin{equation}
+    \sin(x) \cos(kx) = \frac{1}{2} [\sin((k+1)x) + \sin((k-1)x)]
+\end{equation}
+
+So
+\begin{align*}
+    \sin(x) \frac{\partial u_N}{\partial x} &= \sum_{k=1}^N k \hat{u}_k \cdot \frac{1}{2} [\sin((k+1)x) + \sin((k-1)x)] \\
+    &= \frac{1}{2} \sum_{k=1}^N k \hat{u}_k \sin((k+1)x) + \frac{1}{2} \sum_{k=1}^N k \hat{u}_k \sin((k-1)x)
+\end{align*}
+
+Project onto $\sin(m x)$ using orthogonality:
+\begin{align*}
+    \left\langle \sin(x) \frac{\partial u_N}{\partial x}, \sin(m x) \right\rangle &= \frac{\pi}{2} [ (m+1) \hat{u}_{m+1} + (m-1) \hat{u}_{m-1} ]
+\end{align*}
+
+Thus, the Galerkin system is:
+\begin{equation}
+    \frac{d\hat{u}_m}{dt} + \frac{1}{2} [ (m+1) \hat{u}_{m+1} + (m-1) \hat{u}_{m-1} ] = 0, \quad m=1,\ldots,N
+\end{equation}
+
+% ========== Exercise 3 ==========
+
+\section*{Exercise 3: Tau Approximation}
+Consider the same problem as Exercise 2, but approximate
+\begin{equation}
+ u_N(x,t) = \sum_{n=0}^{N+N_b} \hat{u}_n(t) \cos(n x).
+\end{equation}
+with $u(0,t) = u(\pi,t) = 0$.
+
+We define the residual
+\[
+ R_N(x,t) = u_{N,t}(x,t) + \sin(x)u_{N,x}(x,t).
+\]
+Expand $u_N$ and its derivatives:
+\[
+ u_N(x,t) = \sum_{n=0}^{N+N_b} \hat u_n(t) \cos(nx),
+\]
+\[
+ u_{N,t}(x,t) = \sum_{n=0}^{N+N_b} \dot{\hat u}_n(t) \cos(nx),
+\]
+\[
+ u_{N,x}(x,t) = -\sum_{n=0}^{N+N_b} n \hat u_n(t) \sin(nx).
+\]
+Using the trigonometric identity:
+\[
+ \sin(x)\sin(nx) = \frac{1}{2}\left[\cos((n-1)x) - \cos((n+1)x)\right]
+\]
+Therefore,
+\begin{align*}
+ \sin(x)u_{N,x}(x,t) &= -\sum_{n=0}^{N+N_b} n \hat u_n(t) \cdot \frac{1}{2}\left[\cos((n-1)x) - \cos((n+1)x)\right] \\
+ &= -\frac{1}{2}\sum_{n=0}^{N+N_b} n \hat u_n(t) \cos((n-1)x) + \frac{1}{2}\sum_{n=0}^{N+N_b} n \hat u_n(t) \cos((n+1)x)
+\end{align*}
+Expand all terms in the cosine basis:
+\[
+ R_N(x,t) = \sum_{m=0}^{N+N_b} r_m(t)\cos(mx)
+\]
+where
+\[
+ r_m(t) = \dot{\hat u}_m + \frac{m-1}{2}\hat u_{m-1} - \frac{m+1}{2}\hat u_{m+1},
+ \quad m=0,\dots,N+N_b,
+\]
+with $\hat u_{-1}=\hat u_{N+N_b+1}=0$.
+
+The Tau method proceeds as follows:
+\begin{itemize}
+  \item The first $N$ spectral equations vanish: $r_m=0$, $m=0,1,\dots,N-1$, i.e., the residual projected onto the cosine basis is zero.
+  \item The remaining $N_b+1$ equations are replaced by the boundary conditions:
+  \[
+    u_N(0,t)=\sum_{n=0}^{N+N_b}\hat u_n(t)=0,\quad
+    u_N(\pi,t)=\sum_{n=0}^{N+N_b}(-1)^n\hat u_n(t)=0.
+  \]
+\end{itemize}
+This gives a total of $N+N_b+2$ equations for the unknowns $\hat u_0,\dots,\hat u_{N+N_b}$.
+
+% ========== Exercise 4 ==========
+
+\section*{Exercise 4: Fourier--Collocation for Burgers' Equation}
+Consider Burgers' equation
+\begin{equation}
+\frac{\partial u}{\partial t} + \frac{1}{2} \frac{\partial (u^2)}{\partial x} = \varepsilon \frac{\partial^2 u}{\partial x^2},
+\end{equation}
+subject to periodic boundary conditions.
+
+Let $u_N(x,t)=\sum_{k=-N}^N \hat u_k(t)e^{ikx}$ be the truncated Fourier series.  Choose the collocation points
+\[
+ x_j = \frac{2\pi j}{2N+1},\quad j=0,1,\dots,2N,
+\]
+Require the PDE to hold at each $x_j$:
+\[
+ \frac{\partial u_N}{\partial t}(x_j,t)
+ + \frac{1}{2}\frac{\partial}{\partial x}[u_N^2](x_j,t)
+ = \varepsilon \frac{\partial^2 u_N}{\partial x^2}(x_j,t).
+\]
+The spectral expressions for the derivatives are:
+\[
+ \frac{\partial u_N}{\partial x}(x_j) = \sum_{k=-N}^N ik\hat u_k e^{ikx_j},
+ \quad
+ \frac{\partial^2 u_N}{\partial x^2}(x_j) = \sum_{k=-N}^N -k^2\hat u_k e^{ikx_j}.
+\]
+The nonlinear term $u_N^2(x_j)$ is computed in physical space, then transformed back to modal space using FFT.
+
+Write the PDE at each $x_j$ as an ODE system:
+\[
+ \frac{d u_N(x_j, t)}{dt} + \frac{1}{2} \frac{\partial (u_N^2)}{\partial x}(x_j, t) = \varepsilon \frac{\partial^2 u_N}{\partial x^2}(x_j, t)
+\]
+Equivalently, in modal space:
+\[
+ \dot{\hat u}_k + \frac{ik}{2}\sum_{m=-N}^N \hat u_m\hat u_{k-m}
+ = -\varepsilon k^2 \hat u_k,
+ \quad k=-N,\dots,N.
+\]
+This semi-discrete system is the Fourier–Collocation approximation. Time integration can then be performed by any suitable ODE solver in modal space.
+
+\end{document} 
