@@ -1,0 +1,240 @@
+\documentclass[a4paper, 12pt]{article}
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{booktabs}
+
+\lstset{
+    basicstyle=\ttfamily\small,
+    keywordstyle=\color{blue},
+    commentstyle=\color{gray},
+    stringstyle=\color{orange},
+    breaklines=true,
+    breakatwhitespace=true,
+    showstringspaces=false,
+    frame=single,
+    tabsize=4
+}
+
+
+\title{Discretization Methods - Exercise Sheet 1}
+\author{Zitian Wang}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section*{Exercise 1}
+
+We want to show that the 6th order accurate central finite difference approximation is given as:
+\begin{equation}
+    \frac{du}{dx}\Big|_{x_j} = \frac{-u_{j-3} + 9u_{j-2} - 45u_{j-1} + 45u_{j+1} - 9u_{j+2} + u_{j+3}}{60 \Delta x} + \mathcal{O}(\Delta x^6).
+\end{equation}
+
+\textbf{Derivation:} Using Taylor expansion around $x_j$, we can write the expansions for all six points:
+
+\begin{multline}
+    u_{j\pm 1} = u_j \pm \Delta x u_j' + \frac{\Delta x^2}{2} u_j'' \pm \frac{\Delta x^3}{6} u_j''' \\
+    + \frac{\Delta x^4}{24} u_j^{(4)} \pm \frac{\Delta x^5}{120} u_j^{(5)} + \frac{\Delta x^6}{720} u_j^{(6)} + \mathcal{O}(\Delta x^7)
+\end{multline}
+
+\begin{multline}
+    u_{j\pm 2} = u_j \pm 2\Delta x u_j' + \frac{4\Delta x^2}{2} u_j'' \pm \frac{8\Delta x^3}{6} u_j''' \\
+    + \frac{16\Delta x^4}{24} u_j^{(4)} \pm \frac{32\Delta x^5}{120} u_j^{(5)} + \frac{64\Delta x^6}{720} u_j^{(6)} + \mathcal{O}(\Delta x^7)
+\end{multline}
+
+\begin{multline}
+    u_{j\pm 3} = u_j \pm 3\Delta x u_j' + \frac{9\Delta x^2}{2} u_j'' \pm \frac{27\Delta x^3}{6} u_j''' \\
+    + \frac{81\Delta x^4}{24} u_j^{(4)} \pm \frac{243\Delta x^5}{120} u_j^{(5)} + \frac{729\Delta x^6}{720} u_j^{(6)} + \mathcal{O}(\Delta x^7)
+\end{multline}
+
+We seek coefficients $a, b, c, d, e, f$ such that:
+\begin{equation}
+    a u_{j-3} + b u_{j-2} + c u_{j-1} + d u_{j+1} + e u_{j+2} + f u_{j+3} = u_j' + \mathcal{O}(\Delta x^6)
+\end{equation}
+
+This leads to the following system of equations:
+\begin{align*}
+    a + b + c + d + e + f &= 0 \quad \text{(coefficient of } u_j) \\
+    3a + 2b + c - d - 2e - 3f &= \frac{1}{\Delta x} \quad \text{(coefficient of } u_j') \\
+    9a + 4b + c + d + 4e + 9f &= 0 \quad \text{(coefficient of } u_j'') \\
+    27a + 8b + c - d - 8e - 27f &= 0 \quad \text{(coefficient of } u_j''') \\
+    81a + 16b + c + d + 16e + 81f &= 0 \quad \text{(coefficient of } u_j^{(4)}) \\
+    243a + 32b + c - d - 32e - 243f &= 0 \quad \text{(coefficient of } u_j^{(5)})
+\end{align*}
+
+Solving this system gives:
+\begin{equation*}
+    a = -\frac{1}{60}, \quad b = \frac{3}{20}, \quad c = -\frac{3}{4}, \quad d = \frac{3}{4}, \quad e = -\frac{3}{20}, \quad f = \frac{1}{60}
+\end{equation*}
+
+Substituting these coefficients back into the linear combination:
+\begin{align*}
+    u_j' &= -\frac{1}{60}u_{j-3} + \frac{3}{20}u_{j-2} - \frac{3}{4}u_{j-1} + \frac{3}{4}u_{j+1} - \frac{3}{20}u_{j+2} + \frac{1}{60}u_{j+3} + \mathcal{O}(\Delta x^6) \\
+         &= \frac{-u_{j-3} + 9u_{j-2} - 45u_{j-1} + 45u_{j+1} - 9u_{j+2} + u_{j+3}}{60\Delta x} + \mathcal{O}(\Delta x^6)
+\end{align*}
+
+This yields the desired 6th order central difference formula.
+
+\section*{Exercise 2}
+
+For the linear wave problem:
+\begin{equation}
+    \frac{\partial u}{\partial t} = -c \frac{\partial u}{\partial x}, \quad u(0,t) = u(2\pi, t), \quad u(x,0) = e^{ikx}
+\end{equation}
+
+\subsection*{Numerical Wave Speed}
+
+The exact solution to the wave equation is a traveling wave:
+\begin{equation}
+    u(x,t) = e^{i(kx - \omega t)}
+\end{equation}
+where $\omega = ck$ is the angular frequency and $k$ is the wavenumber.
+
+When we discretize the spatial derivative using the 6th order central difference scheme:
+\begin{equation}
+    \frac{du}{dx}\Big|_{x_j} \approx \frac{-u_{j-3} + 9u_{j-2} - 45u_{j-1} + 45u_{j+1} - 9u_{j+2} + u_{j+3}}{60\Delta x}
+\end{equation}
+
+Substituting the exact solution at grid points:
+\begin{align*}
+    \frac{du}{dx}\Big|_{x_j} &\approx \frac{1}{60\Delta x}\Big[-e^{ik(x_j-3\Delta x)} + 9e^{ik(x_j-2\Delta x)} \\
+    &\quad - 45e^{ik(x_j-\Delta x)} + 45e^{ik(x_j+\Delta x)} \\
+    &\quad - 9e^{ik(x_j+2\Delta x)} + e^{ik(x_j+3\Delta x)}\Big] \\
+    &= \frac{e^{ikx_j}}{60\Delta x} \Big[-e^{-3ik\Delta x} + 9e^{-2ik\Delta x} - 45e^{-ik\Delta x} \\
+    &\quad + 45e^{ik\Delta x} - 9e^{2ik\Delta x} + e^{3ik\Delta x}\Big]
+\end{align*}
+
+Using Euler's formula $e^{i\theta} = \cos\theta + i\sin\theta$, we can rewrite the expression:
+\begin{align*}
+    \frac{du}{dx}\Big|_{x_j} &= \frac{e^{ikx_j}}{60\Delta x} \Big[2i(45\sin(k\Delta x) - 9\sin(2k\Delta x) + \sin(3k\Delta x))\Big] \\
+    &= \frac{ie^{ikx_j}}{30\Delta x} \Big[45\sin(k\Delta x) - 9\sin(2k\Delta x) + \sin(3k\Delta x)\Big]
+\end{align*}
+
+The numerical wave speed $c_3(k)$ is defined as the ratio of the numerical angular frequency to the wavenumber:
+\begin{equation}
+    c_3(k) = c \frac{45\sin(k\Delta x) - 9\sin(2k\Delta x) + \sin(3k\Delta x)}{30k\Delta x}
+\end{equation}
+
+\subsection*{Phase Error}
+
+For the 6th order central difference scheme, the phase error is:
+\begin{equation}
+    e_3(k) = \frac{c}{70}(k\Delta x)^6 + \mathcal{O}((k\Delta x)^8)
+\end{equation}
+
+For a wavelength $p$ and CFL number $\nu = \frac{c\Delta t}{\Delta x}$, the phase error becomes:
+\begin{equation}
+    e_3(p, \nu) = \frac{\pi \nu}{70} \left(\frac{2\pi}{p}\right)^6
+\end{equation}
+
+To ensure the phase error is less than $\varepsilon_p$, we need:
+\begin{equation}
+    \frac{\pi \nu}{70} \left(\frac{2\pi}{p}\right)^6 \leq \varepsilon_p
+\end{equation}
+
+This gives the minimum required points per wavelength:
+\begin{equation}
+    p_3(\varepsilon_p, \nu) \geq 2\pi \sqrt[6]{\frac{\pi \nu}{70 \varepsilon_p}}
+\end{equation}
+
+The choice between different order schemes depends on the error tolerance $\varepsilon_p$ and the CFL number $\nu$:
+
+\begin{itemize}
+    \item For $\varepsilon_p = 0.1$:
+    \begin{itemize}
+        \item When $\nu > 0.06$, the 6th order scheme requires fewer points than the 2nd order scheme
+        \item For example, at $\nu = 0.06$:
+        \begin{itemize}
+            \item 2nd order scheme requires $p_1 \approx 3.52$ points
+            \item 4th order scheme requires $p_2 \approx 3.15$ points
+            \item 6th order scheme requires $p_3 \approx 3.44$ points
+        \end{itemize}
+    \end{itemize}
+    
+    \item For $\varepsilon_p = 0.01$:
+    \begin{itemize}
+        \item When $\nu > 0.003$, the 6th order scheme requires fewer points than the 2nd order scheme
+        \item For example, at $\nu = 0.003$:
+        \begin{itemize}
+            \item 2nd order scheme requires $p_1 \approx 2.49$ points
+            \item 4th order scheme requires $p_2 \approx 2.65$ points
+            \item 6th order scheme requires $p_3 \approx 3.06$ points
+        \end{itemize}
+    \end{itemize}
+\end{itemize}
+
+The phase error analysis shows that:
+\begin{itemize}
+    \item The 6th order scheme becomes advantageous only when $\nu$ exceeds certain thresholds.
+    
+    \item For $\varepsilon_p = 0.1$, the threshold is $\nu > 0.06$.
+    
+    \item For $\varepsilon_p = 0.01$, the threshold is $\nu > 0.003$.
+    
+    \item Below these thresholds, lower order schemes may require fewer points per wavelength.
+\end{itemize}
+
+\section*{Exercise 3}
+
+\textbf{Objective:} Implement and test the Fourier differentiation matrix on $u(x) = \exp(k \sin x)$ over $x \in [0, 2\pi]$.
+
+\subsection*{Implementation}
+
+The key part of the implementation is the Fourier differentiation matrix:
+
+\begin{lstlisting}[language=Python]
+def fourier_differentiation_matrix(N):
+    """Compute the Fourier differentiation matrix."""
+    D = np.zeros((N+1, N+1))
+    for i in range(N+1):
+        for j in range(N+1):
+            if i != j:
+                D[i,j] = (-1)**(i+j) / (2 * np.sin((j-i)*np.pi/(N+1)))
+    return D
+\end{lstlisting}
+
+The matrix is constructed using the formula:
+\begin{equation}
+    D_{ji} = \begin{cases}
+    \frac{(-1)^{j+i}}{2 \sin\left(\frac{(j-i)\pi}{N+1}\right)}, & i \neq j \\
+    0, & i = j
+    \end{cases}
+\end{equation}
+
+\subsection*{Results}
+
+The code tests the Fourier differentiation matrix for $k = 2, 4, 6, 8, 10, 12$ and finds the minimum $N$ that ensures the maximum error is less than $10^{-5}$. The results are shown in Table \ref{tab:fourier_results}.
+
+\begin{table}[H]
+    \centering
+    \begin{tabular}{cccc}
+        \toprule
+        $k$ & $N$ (Relative Error) & $N$ (Absolute Error) \\
+        \midrule
+        2 & 22 & 20 \\
+        4 & 32 & 28 \\
+        6 & 42 & 34 \\
+        8 & 52 & 42 \\
+        10 & 60 & 48 \\
+        12 & 74 & 54 \\
+        \bottomrule
+    \end{tabular}
+    \caption{Minimum $N$ values for different $k$ values}
+    \label{tab:fourier_results}
+\end{table}
+
+The results show that:
+\begin{itemize}
+    \item The required $N$ increases with $k$, as expected.
+    \item The relative error criterion requires more points than the absolute error criterion.
+\end{itemize}
+
+\end{document}
