@@ -119,6 +119,11 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT ./figure/burgers_N_convergence.png
+INPUT ./figure/burgers_N_convergence.png
+INPUT ./figure/burgers_N_convergence.png
+INPUT ./figure/burgers_N_convergence.png
+INPUT ./figure/burgers_N_convergence.png
 INPUT ./figure/burgers_solution_part2a.png
 INPUT ./figure/burgers_solution_part2a.png
 INPUT ./figure/burgers_solution_part2a.png
@@ -129,11 +134,10 @@ INPUT ./figure/burgers_cfl_stability.png
 INPUT ./figure/burgers_cfl_stability.png
 INPUT ./figure/burgers_cfl_stability.png
 INPUT ./figure/burgers_cfl_stability.png
-INPUT ./figure/burgers_dt_convergence.png
-INPUT ./figure/burgers_dt_convergence.png
-INPUT ./figure/burgers_dt_convergence.png
-INPUT ./figure/burgers_dt_convergence.png
-INPUT ./figure/burgers_dt_convergence.png
+INPUT ./figure/burgers_N_convergence.png
+INPUT ./figure/burgers_N_convergence.png
+INPUT ./figure/burgers_N_convergence.png
+INPUT ./figure/burgers_N_convergence.png
 INPUT out/report.aux
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb

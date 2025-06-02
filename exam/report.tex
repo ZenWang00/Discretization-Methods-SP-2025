@@ -100,6 +100,47 @@ where $\hat{u}_k$ are the Fourier coefficients.
 
 Thus, the semi-discrete approximation is stable with $C = 1$.
 
+\subsection*{(d) Spatial Convergence for Burgers' Equation}
+To investigate the spatial accuracy of the spectral method, we measure the $L^\infty$-error between the computed solution and the exact solution at $t = \pi/4$ for a range of grid resolutions. The experiment is performed for $N = 16, 32, 48, 64, 96, 128, 192, 256$ using a sufficiently small time step ($\Delta t = 0.0005$) to ensure that the temporal error is negligible. The initial condition is set using the Hopf--Cole transform, and the exact solution is evaluated analytically.
+
+The following code is used for the experiment:
+
+\begin{lstlisting}[language=Python]
+from burgers_core import u_initial, u_exact, F
+N_list = [16, 32, 48, 64, 96, 128, 192, 256]
+dt = 0.0005
+T = np.pi / 4
+errors = []
+for N in N_list:
+    # Set up grid and operators
+    x = np.linspace(0, 2*np.pi, N, endpoint=False)
+    dx = 2*np.pi / N
+    k = np.fft.fftfreq(N, d=dx) * 2 * np.pi
+    ik = 1j * k
+    k2 = k**2
+    u = u_initial(x, c, nu)
+    nsteps = int(T / dt)
+    for n in range(nsteps):
+        u1 = u + dt/2 * F(u, k, ik, k2, nu)
+        u2 = u + dt/2 * F(u1, k, ik, k2, nu)
+        u3 = u + dt   * F(u2, k, ik, k2, nu)
+        u  = (1/3) * (-u + u1 + 2*u2 + u3 + dt/2 * F(u3, k, ik, k2, nu))
+    u_ref = u_exact(x, T, c, nu)
+    err = np.max(np.abs(u - u_ref))
+    errors.append(err)
+\end{lstlisting}
+
+Figure~\ref{fig:burgers_N_convergence} shows the $L^\infty$ error at $t = \pi/4$ as a function of the number of grid points $N$ on a log-log scale. The results demonstrate rapid convergence as $N$ increases, consistent with the spectral accuracy expected for smooth solutions. For coarse grids, the error decreases rapidly with increasing $N$, while for finer grids, the error plateaus due to the dominance of temporal or round-off errors.
+
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=0.9\textwidth]{figure/burgers_N_convergence.png}
+    \caption{Spatial convergence for the periodic Burgers' equation: $L^\infty$ error at $t = \pi/4$ versus the number of grid points $N$ using the spectral method and RK4.}
+    \label{fig:burgers_N_convergence}
+\end{figure}
+
+These results confirm that the spectral method achieves very high spatial accuracy for smooth solutions, with the error decreasing rapidly as the grid is refined. The observed convergence rate matches the theoretical expectation for spectral methods, until the error is limited by other sources such as time discretization or machine precision.
+
 \section*{Part 2}
 Consider now Burger's equation given as
 \begin{equation}
@@ -342,7 +383,7 @@ Figure~\ref{fig:burgers_dt_convergence} shows the $L^2$ error at $t=1.0$ as a fu
 
 \begin{figure}[htbp]
     \centering
-    \includegraphics[width=0.9\textwidth]{figure/burgers_dt_convergence.png}
+    \includegraphics[width=0.9\textwidth]{figure/burgers_N_convergence.png}
     \caption{Time step convergence for the periodic Burgers' equation: $L^2$ error at $t=1.0$ versus time step size $\Delta t$ using the spectral method and RK4.}
     \label{fig:burgers_dt_convergence}
 \end{figure}

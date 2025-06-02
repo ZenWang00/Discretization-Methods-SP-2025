@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1748899951.08889 "/Users/zitian/Discretization/exam/report.tex" "out/report.pdf" "report" 1748899951.68319 0
-  "/Users/zitian/Discretization/exam/report.tex" 1748899950.2595 13767 277120355b83fb256d4b7fe643406c21 ""
+["pdflatex"] 1748900825.02504 "/Users/zitian/Discretization/exam/report.tex" "out/report.pdf" "report" 1748900825.65544 0
+  "/Users/zitian/Discretization/exam/report.tex" 1748900824.28989 16243 1874161727b4b11cfc42152e44063d12 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -75,11 +75,11 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1727876222.26753 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1727876139 8221409 d91d47a832830780b6623187faf7892c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
+  "figure/burgers_N_convergence.png" 1748900472.18905 39042 7037594b72609d68b981cbbd1211e516 ""
   "figure/burgers_cfl_stability.png" 1748898861.65582 45683 8dc60cec3cd577f8df6066dc6ffe5e4d ""
-  "figure/burgers_dt_convergence.png" 1748899877.22742 39072 0ff0af8ade574d98ba659705aabc6628 ""
   "figure/burgers_solution_part2a.png" 1748898735.57402 48314 58f6fb66098d641fa1b29b89427eea33 ""
-  "out/report.aux" 1748899951.63991 962 2703254c99607c55a8838aa1e73d7e7d "pdflatex"
-  "report.tex" 1748899950.2595 13767 277120355b83fb256d4b7fe643406c21 ""
+  "out/report.aux" 1748900825.61197 1280 165195927467c2cbc47b614f31029e6f "pdflatex"
+  "report.tex" 1748900824.28989 16243 1874161727b4b11cfc42152e44063d12 ""
   (generated)
   "out/report.aux"
   "out/report.log"
