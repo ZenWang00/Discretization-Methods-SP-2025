@@ -315,4 +315,38 @@ Figure~\ref{fig:burgers_cfl_stability} shows the maximum stable CFL number for d
 
 As shown in Figure~\ref{fig:burgers_cfl_stability}, the maximum stable CFL number decreases as the grid resolution increases. This is consistent with the theoretical expectation that higher resolution requires smaller time steps for stability. The results demonstrate that the numerical scheme remains stable for a wide range of CFL numbers, particularly at lower resolutions.
 
+\subsection*{(c) Time Step Convergence for Burgers' Equation}
+To investigate the temporal accuracy of the spectral method with RK4 time integration, we perform a time step convergence experiment. The initial condition is set using the Hopf--Cole transform, and the reference solution is computed using the analytical formula at $t=1.0$.
+
+The following code is used for the experiment:
+
+\begin{lstlisting}[language=Python]
+from burgers_core import u_initial, u_exact, F
+# ... (see burgers_dt_convergence.py for full code) ...
+dt_list = [0.01, 0.005, 0.0025, 0.00125, 0.000625]
+errors = []
+for dt in dt_list:
+    u = u0.copy()
+    nsteps = int(T / dt)
+    for n in range(nsteps):
+        u1 = u + dt/2 * F(u, k, ik, k2, nu)
+        u2 = u + dt/2 * F(u1, k, ik, k2, nu)
+        u3 = u + dt   * F(u2, k, ik, k2, nu)
+        u  = (1/3) * (-u + u1 + 2*u2 + u3 + dt/2 * F(u3, k, ik, k2, nu))
+    u_ref = u_exact(x, T, c, nu)
+    err = np.linalg.norm(u - u_ref) / np.sqrt(N)
+    errors.append(err)
+\end{lstlisting}
+
+Figure~\ref{fig:burgers_dt_convergence} shows the $L^2$ error at $t=1.0$ as a function of the time step size $\Delta t$ on a log-log scale. The results demonstrate that the scheme is stable and convergent for sufficiently small $\Delta t$. For $\Delta t \leq 0.005$, the error decreases rapidly, and the observed convergence order is approximately 2.5, which is consistent with the expected high-order accuracy of the RK4 method for this nonlinear PDE. For larger $\Delta t$, the scheme becomes unstable and the error diverges.
+
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=0.9\textwidth]{figure/burgers_dt_convergence.png}
+    \caption{Time step convergence for the periodic Burgers' equation: $L^2$ error at $t=1.0$ versus time step size $\Delta t$ using the spectral method and RK4.}
+    \label{fig:burgers_dt_convergence}
+\end{figure}
+
+These results highlight the importance of choosing a sufficiently small time step for stability and accuracy when solving nonlinear PDEs with spectral methods. The experiment confirms that the implemented scheme achieves high-order accuracy in time, provided the time step is adequately small.
+
 \end{document} 

@@ -129,6 +129,11 @@ INPUT ./figure/burgers_cfl_stability.png
 INPUT ./figure/burgers_cfl_stability.png
 INPUT ./figure/burgers_cfl_stability.png
 INPUT ./figure/burgers_cfl_stability.png
+INPUT ./figure/burgers_dt_convergence.png
+INPUT ./figure/burgers_dt_convergence.png
+INPUT ./figure/burgers_dt_convergence.png
+INPUT ./figure/burgers_dt_convergence.png
+INPUT ./figure/burgers_dt_convergence.png
 INPUT out/report.aux
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb

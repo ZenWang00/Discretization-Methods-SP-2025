@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.2)  2 JUN 2025 23:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.2)  2 JUN 2025 23:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -229,25 +229,31 @@ File: figure/burgers_cfl_stability.png Graphic file (type png)
 <use figure/burgers_cfl_stability.png>
 Package pdftex.def Info: figure/burgers_cfl_stability.png  used on input line 311.
 (pdftex.def)             Requested size: 310.4979pt x 232.8849pt.
- [7 <./figure/burgers_cfl_stability.png>] (out/report.aux)
+ [7 <./figure/burgers_cfl_stability.png>]
+<figure/burgers_dt_convergence.png, id=44, 434.1018pt x 331.4784pt>
+File: figure/burgers_dt_convergence.png Graphic file (type png)
+<use figure/burgers_dt_convergence.png>
+Package pdftex.def Info: figure/burgers_dt_convergence.png  used on input line 345.
+(pdftex.def)             Requested size: 310.4979pt x 237.09628pt.
+ [8] [9 <./figure/burgers_dt_convergence.png>] (out/report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5029 strings out of 474116
- 70179 string characters out of 5743682
+ 5049 strings out of 474116
+ 70600 string characters out of 5743682
  2454187 words of memory out of 5000000
- 27355 multiletter control sequences out of 15000+600000
+ 27375 multiletter control sequences out of 15000+600000
  566603 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,451b,1826s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,65p,603b,1826s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on out/report.pdf (7 pages, 256067 bytes).
+Output written on out/report.pdf (9 pages, 295976 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
+ 112 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
