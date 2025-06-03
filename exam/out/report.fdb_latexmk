@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1748945098.19603 "/Users/zitian/Discretization/exam/report.tex" "out/report.pdf" "report" 1748945099.094 0
-  "/Users/zitian/Discretization/exam/report.tex" 1748945097.10767 27794 27a3387a6315a1677fd790ec0dea0c90 ""
+["pdflatex"] 1748945304.2647 "/Users/zitian/Discretization/exam/report.tex" "out/report.pdf" "report" 1748945305.22926 0
+  "/Users/zitian/Discretization/exam/report.tex" 1748945304.17263 27797 656afb26cd0b1a6e9794ca309df6cdff ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -89,8 +89,8 @@
   "figure/burgers_galerkin_solution.png" 1748939890.29368 60324 7962614a2e5157bbc782006684afe276 ""
   "figure/burgers_snapshots.png" 1748901035.415 125939 bcc3b98ccfc1a7670d41db15380d4da5 ""
   "figure/burgers_solution_part2a.png" 1748898735.57402 48314 58f6fb66098d641fa1b29b89427eea33 ""
-  "out/report.aux" 1748945099.04098 2245 c3ee45a00ff72bcc1de82506dc53a9e4 "pdflatex"
-  "report.tex" 1748945097.10767 27794 27a3387a6315a1677fd790ec0dea0c90 ""
+  "out/report.aux" 1748945305.1685 2245 c3ee45a00ff72bcc1de82506dc53a9e4 "pdflatex"
+  "report.tex" 1748945304.17263 27797 656afb26cd0b1a6e9794ca309df6cdff ""
   (generated)
   "out/report.aux"
   "out/report.log"
