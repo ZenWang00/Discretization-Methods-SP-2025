@@ -433,4 +433,57 @@ Figure~\ref{fig:burgers_snapshots} shows the computed and exact solutions at the
 
 These results confirm that the implemented spectral method with RK4 time integration can accurately capture the evolution of the solution, even as sharp gradients develop, provided the grid resolution and time step are chosen appropriately.
 
+\section*{Part 3}
+\subsection*{(a) Fourier Galerkin Method for Burgers' Equation}
+We solve the periodic Burgers' equation using the Fourier Galerkin method with 4th order Runge-Kutta (RK4) time integration. The initial condition is projected onto the Fourier basis using the FFT, and the nonlinear term is computed in physical space and transformed back to spectral space at each time step. The time step is dynamically chosen according to the CFL-like condition:
+\[
+\Delta t \leq \text{CFL} \times \left( \max_{x_j} |u(x_j)| k_{\max} + \nu k_{\max}^2 \right)^{-1},
+\]
+where $k_{\max} = N/2$.
+
+The following code implements the method:
+
+\begin{lstlisting}[language=Python]
+from burgers_core import u_initial, u_exact
+from burgers_galerkin_core import burgers_galerkin_rhs, rk4_step_galerkin
+
+N = 128
+c = 4.0
+nu = 0.1
+L = 2 * np.pi
+x = np.linspace(0, L, N, endpoint=False)
+k = np.fft.fftfreq(N, d=L/N) * 2 * np.pi
+kmax = N // 2
+
+u0 = u_initial(x, c, nu)
+u_hat = np.fft.fft(u0)
+T = 1.0
+CFL = 0.002
+t = 0.0
+steps = 0
+max_steps = 5000000
+while t < T and steps < max_steps:
+    u = np.fft.ifft(u_hat).real
+    dt = CFL / (np.max(np.abs(u)) * kmax + nu * kmax**2)
+    if t + dt > T:
+        dt = T - t
+    u_hat = rk4_step_galerkin(u_hat, dt, k, nu)
+    t += dt
+    steps += 1
+    if not np.isfinite(u_hat).all():
+        raise RuntimeError(f"Numerical instability at t={t:.6f}")
+u_num = np.fft.ifft(u_hat).real
+u_ex = u_exact(x, T, c, nu)
+# Plotting code omitted for brevity
+\end{lstlisting}
+
+Figure~\ref{fig:burgers_galerkin_solution} shows the numerical and exact solutions at $t=1.0$ for $N=128$. The numerical solution obtained by the Fourier Galerkin method matches the exact solution extremely well, with an $L^2$ error on the order of $10^{-6}$. This demonstrates the high accuracy and stability of the Galerkin spectral method for smooth periodic solutions of the Burgers' equation.
+
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=0.9\textwidth]{figure/burgers_galerkin_solution.png}
+    \caption{Comparison of the numerical solution (Fourier Galerkin + RK4) and the exact solution (Hopf--Cole) for the periodic Burgers' equation at $t=1.0$ with $N=128$.}
+    \label{fig:burgers_galerkin_solution}
+\end{figure}
+
 \end{document} 

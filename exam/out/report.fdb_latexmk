@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1748901273.48839 "/Users/zitian/Discretization/exam/report.tex" "out/report.pdf" "report" 1748901274.21786 0
-  "/Users/zitian/Discretization/exam/report.tex" 1748901272.60706 18388 e8951a4274a8e06351d19bc1fda781b4 ""
+["pdflatex"] 1748940085.32063 "/Users/zitian/Discretization/exam/report.tex" "out/report.pdf" "report" 1748940086.11925 0
+  "/Users/zitian/Discretization/exam/report.tex" 1748940085.23251 20619 49ecfd3fc253e329ae39ed0fd0bdbc0c ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -32,6 +32,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1248133631 30251 6afa5cb1d0204815a708a080681d4674 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1248133631 36741 fa121aac0049305630cf160b86157ee4 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb" 1248133631 37912 77d683123f92148345f3fc36a38d9ab1 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1248133631 36281 c355509802a035cadc5f15869451dcee ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
@@ -79,10 +80,11 @@
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "figure/burgers_N_convergence.png" 1748900472.18905 39042 7037594b72609d68b981cbbd1211e516 ""
   "figure/burgers_cfl_stability.png" 1748898861.65582 45683 8dc60cec3cd577f8df6066dc6ffe5e4d ""
+  "figure/burgers_galerkin_solution.png" 1748939890.29368 60324 7962614a2e5157bbc782006684afe276 ""
   "figure/burgers_snapshots.png" 1748901035.415 125939 bcc3b98ccfc1a7670d41db15380d4da5 ""
   "figure/burgers_solution_part2a.png" 1748898735.57402 48314 58f6fb66098d641fa1b29b89427eea33 ""
-  "out/report.aux" 1748901274.172 1620 6a60bcc80add9509f1880fea89fdb881 "pdflatex"
-  "report.tex" 1748901272.60706 18388 e8951a4274a8e06351d19bc1fda781b4 ""
+  "out/report.aux" 1748940086.0674 1937 ad578025b651127e5bf922b9d0db7d64 "pdflatex"
+  "report.tex" 1748940085.23251 20619 49ecfd3fc253e329ae39ed0fd0bdbc0c ""
   (generated)
   "out/report.aux"
   "out/report.log"
